@@ -67,7 +67,7 @@ Build/*/**
 year2Assignment/Saved/*
 
 # Compiled source files for the engine to use
-Intermediate/*
+year2Assignment/Intermediate/*
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
