@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ccporirua/Documents/GitHub/year2Assignment/year2Assignment/Content/levels/testLevel2.umap",
+				"C:/Users/ccporirua/Documents/GitHub/year2Assignment/year2Assignment/Content/levels/level01.umap",
+				"C:/Users/ccporirua/Documents/GitHub/year2Assignment/year2Assignment/Content/levels/testLevel1.umap",
+				"C:/Users/ccporirua/Documents/GitHub/year2Assignment/year2Assignment/Content/levels/level1.umap",
+				"C:/Users/ccporirua/Documents/GitHub/year2Assignment/year2Assignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/Unreal Projects/Year2Assignment/Content/UI/assets/ammo.uasset",
 				"E:/Unreal Projects/Year2Assignment/Content/UI/assets/crosshair.uasset",
 				"E:/Unreal Projects/Year2Assignment/Content/UI/assets/health.uasset",
