@@ -5628,3 +5628,1236 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.23-13.54.36:431][ 12]BlueprintLog: New page: Compile ABP_Manny
 [2023.11.23-13.54.36:509][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
 [2023.11.23-13.54.38:017][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.11.23-13.55.52:677][632]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.23-13.56.04:233][858]BlueprintLog: New page: Compile ABP_Manny
+[2023.11.23-13.56.04:317][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.23-13.57.05:013][787]BlueprintLog: New page: Compile ABP_Manny
+[2023.11.23-13.57.05:097][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.11.23-13.57.07:474][ 54]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.23-13.57.07:484][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.23-13.57.07:484][ 54]PIE: New page: PIE session: titleScreen (24/11/2023, 3:57:07 pm)
+[2023.11.23-13.57.07:484][ 54]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_titleScreen
+[2023.11.23-13.57.07:488][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004164s)
+[2023.11.23-13.57.07:488][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/titleScreen.titleScreen to /Game/UI/UEDPIE_0_titleScreen.titleScreen (0.004189s)
+[2023.11.23-13.57.07:488][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-13.57.07:488][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-13.57.07:488][ 54]LogAIModule: Creating AISystem for world titleScreen
+[2023.11.23-13.57.07:489][ 54]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2023.11.23-13.57.07:514][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.11.23-13.57.07:517][ 54]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.11.23-13.57.07:517][ 54]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-13.57.07:518][ 54]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-13.57.07:518][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-13.57.07:518][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-13.57.07:518][ 54]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.23-13.57.07:518][ 54]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.23-13.57.07:518][ 54]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.23-13.57.07:518][ 54]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-13.57.07:518][ 54]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-13.57.07:518][ 54]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-13.57.07:518][ 54]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-13.57.07:520][ 54]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-13.57.07:538][ 54]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TOUR ONE M2 Stereo)
+[2023.11.23-13.57.07:538][ 54]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-13.57.07:538][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-13.57.07:538][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-13.57.07:539][ 54]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2023.11.23-13.57.07:539][ 54]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2023.11.23-13.57.07:540][ 54]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2023.11.23-13.57.07:540][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2023.11.23-13.57.07:540][ 54]LogInit: FAudioDevice initialized with ID 39.
+[2023.11.23-13.57.07:540][ 54]LogAudio: Display: Audio Device (ID: 39) registered with world 'titleScreen'.
+[2023.11.23-13.57.07:540][ 54]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2023.11.23-13.57.07:586][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-13.57.07:587][ 54]LogLoad: Game class is 'GameModeBase'
+[2023.11.23-13.57.07:588][ 54]LogWorld: Bringing World /Game/UI/UEDPIE_0_titleScreen.titleScreen up for play (max tick rate 0) at 2023.11.24-02.57.07
+[2023.11.23-13.57.07:588][ 54]LogWorld: Bringing up level for play took: 0.001537
+[2023.11.23-13.57.07:590][ 54]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2023.11.23-13.57.07:592][ 54]PIE: Server logged in
+[2023.11.23-13.57.07:593][ 54]PIE: Play in editor total start time 0.11 seconds.
+[2023.11.23-13.57.07:665][ 54]LogViewport: Scene viewport resized to 1858x1046, mode Windowed.
+[2023.11.23-13.57.08:592][125]LogNet: Browse: /Game/levels/level1
+[2023.11.23-13.57.08:592][125]LogLoad: LoadMap: /Game/levels/level1
+[2023.11.23-13.57.08:592][125]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_titleScreen
+[2023.11.23-13.57.08:593][125]LogWorld: UWorld::CleanupWorld for titleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-13.57.08:593][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-13.57.08:646][125]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-13.57.08:649][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.23-13.57.08:671][125]LogAudio: Display: Audio Device (ID: 39) registered with world 'level1'.
+[2023.11.23-13.57.08:671][125]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-13.57.08:671][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-13.57.08:672][125]LogAIModule: Creating AISystem for world level1
+[2023.11.23-13.57.08:672][125]LogPlayLevel: PIE: World Init took: (0.000988s)
+[2023.11.23-13.57.08:672][125]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.23-13.57.08:684][125]LogWorld: Bringing World /Game/levels/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2023.11.24-02.57.08
+[2023.11.23-13.57.08:684][125]LogWorld: Bringing up level for play took: 0.011661
+[2023.11.23-13.57.08:687][125]LogLoad: Took 0.095082 seconds to LoadMap(/Game/levels/level1)
+[2023.11.23-13.57.47:072][ 26]Cmd: restartLevel
+[2023.11.23-13.57.47:086][ 27]LogNet: Browse: /Game/levels/level1?restart
+[2023.11.23-13.57.47:086][ 27]LogLoad: LoadMap: /Game/levels/level1
+[2023.11.23-13.57.47:086][ 27]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_level1
+[2023.11.23-13.57.47:087][ 27]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-13.57.47:087][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-13.57.47:135][ 27]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-13.57.47:138][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.11.23-13.57.47:159][ 27]LogAudio: Display: Audio Device (ID: 39) registered with world 'level1'.
+[2023.11.23-13.57.47:160][ 27]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-13.57.47:160][ 27]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-13.57.47:160][ 27]LogAIModule: Creating AISystem for world level1
+[2023.11.23-13.57.47:161][ 27]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2023.11.23-13.57.47:161][ 27]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.23-13.57.47:171][ 27]LogWorld: Bringing World /Game/levels/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2023.11.24-02.57.47
+[2023.11.23-13.57.47:172][ 27]LogWorld: Bringing up level for play took: 0.010978
+[2023.11.23-13.57.47:175][ 27]LogLoad: Took 0.089131 seconds to LoadMap(/Game/levels/level1)
+[2023.11.23-13.57.53:322][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-13.57.53:322][468]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_level1
+[2023.11.23-13.57.53:323][468]LogSlate: Window 'Year2Project Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.23-13.57.53:327][468]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-13.57.53:328][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-13.57.53:330][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-13.57.53:335][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-13.57.53:359][468]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-13.57.53:360][468]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2023.11.23-13.57.53:360][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.11.23-13.57.53:362][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.11.23-13.57.53:368][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.11.23-13.57.53:387][469]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.11.23-13.58.07:834][ 77]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.23-13.58.07:965][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.23-13.58.08:992][160]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.23-13.58.09:003][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.23-13.58.09:003][160]PIE: New page: PIE session: titleScreen (24/11/2023, 3:58:09 pm)
+[2023.11.23-13.58.09:003][160]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_titleScreen
+[2023.11.23-13.58.09:007][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004198s)
+[2023.11.23-13.58.09:007][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/titleScreen.titleScreen to /Game/UI/UEDPIE_0_titleScreen.titleScreen (0.004221s)
+[2023.11.23-13.58.09:007][160]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-13.58.09:007][160]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-13.58.09:008][160]LogAIModule: Creating AISystem for world titleScreen
+[2023.11.23-13.58.09:008][160]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2023.11.23-13.58.09:032][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.23-13.58.09:037][160]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.11.23-13.58.09:037][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-13.58.09:037][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-13.58.09:037][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-13.58.09:037][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-13.58.09:037][160]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.23-13.58.09:037][160]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.23-13.58.09:037][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.23-13.58.09:037][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-13.58.09:037][160]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-13.58.09:037][160]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-13.58.09:037][160]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-13.58.09:039][160]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-13.58.09:055][160]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TOUR ONE M2 Stereo)
+[2023.11.23-13.58.09:055][160]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-13.58.09:055][160]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-13.58.09:055][160]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-13.58.09:055][160]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2023.11.23-13.58.09:055][160]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2023.11.23-13.58.09:057][160]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2023.11.23-13.58.09:057][160]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2023.11.23-13.58.09:057][160]LogInit: FAudioDevice initialized with ID 40.
+[2023.11.23-13.58.09:057][160]LogAudio: Display: Audio Device (ID: 40) registered with world 'titleScreen'.
+[2023.11.23-13.58.09:057][160]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2023.11.23-13.58.09:088][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-13.58.09:088][160]LogLoad: Game class is 'GameModeBase'
+[2023.11.23-13.58.09:090][160]LogWorld: Bringing World /Game/UI/UEDPIE_0_titleScreen.titleScreen up for play (max tick rate 0) at 2023.11.24-02.58.09
+[2023.11.23-13.58.09:090][160]LogWorld: Bringing up level for play took: 0.001510
+[2023.11.23-13.58.09:091][160]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2023.11.23-13.58.09:098][160]PIE: Server logged in
+[2023.11.23-13.58.09:103][160]PIE: Play in editor total start time 0.101 seconds.
+[2023.11.23-13.58.09:186][160]LogViewport: Scene viewport resized to 1858x1046, mode Windowed.
+[2023.11.23-13.58.10:961][323]LogNet: Browse: /Game/levels/level1
+[2023.11.23-13.58.10:961][323]LogLoad: LoadMap: /Game/levels/level1
+[2023.11.23-13.58.10:961][323]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_titleScreen
+[2023.11.23-13.58.10:962][323]LogWorld: UWorld::CleanupWorld for titleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-13.58.10:962][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-13.58.11:024][323]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-13.58.11:027][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.11.23-13.58.11:049][323]LogAudio: Display: Audio Device (ID: 40) registered with world 'level1'.
+[2023.11.23-13.58.11:049][323]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-13.58.11:049][323]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-13.58.11:049][323]LogAIModule: Creating AISystem for world level1
+[2023.11.23-13.58.11:050][323]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2023.11.23-13.58.11:050][323]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.23-13.58.11:060][323]LogWorld: Bringing World /Game/levels/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2023.11.24-02.58.11
+[2023.11.23-13.58.11:060][323]LogWorld: Bringing up level for play took: 0.010453
+[2023.11.23-13.58.11:063][323]LogLoad: Took 0.101583 seconds to LoadMap(/Game/levels/level1)
+[2023.11.23-13.58.25:481][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-13.58.25:481][497]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_level1
+[2023.11.23-13.58.25:482][497]LogSlate: Window 'Year2Project Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.23-13.58.25:487][497]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-13.58.25:488][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-13.58.25:489][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-13.58.25:494][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-13.58.25:518][497]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-13.58.25:518][497]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2023.11.23-13.58.25:518][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.11.23-13.58.25:520][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.11.23-13.58.25:526][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.11.23-13.58.25:566][498]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.11.23-13.59.20:734][954]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.23-13.59.20:850][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.23-13.59.56:746][ 67]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.23-13.59.56:865][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.23-13.59.58:023][175]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.23-13.59.58:031][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.23-13.59.58:031][175]PIE: New page: PIE session: titleScreen (24/11/2023, 3:59:58 pm)
+[2023.11.23-13.59.58:031][175]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_titleScreen
+[2023.11.23-13.59.58:036][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004356s)
+[2023.11.23-13.59.58:036][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/titleScreen.titleScreen to /Game/UI/UEDPIE_0_titleScreen.titleScreen (0.004381s)
+[2023.11.23-13.59.58:036][175]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-13.59.58:036][175]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-13.59.58:036][175]LogAIModule: Creating AISystem for world titleScreen
+[2023.11.23-13.59.58:037][175]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2023.11.23-13.59.58:062][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.11.23-13.59.58:067][175]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2023.11.23-13.59.58:067][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-13.59.58:067][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-13.59.58:067][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-13.59.58:067][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-13.59.58:067][175]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.23-13.59.58:067][175]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.23-13.59.58:067][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.23-13.59.58:067][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-13.59.58:067][175]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-13.59.58:067][175]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-13.59.58:067][175]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-13.59.58:069][175]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-13.59.58:086][175]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TOUR ONE M2 Stereo)
+[2023.11.23-13.59.58:086][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-13.59.58:086][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-13.59.58:086][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-13.59.58:087][175]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2023.11.23-13.59.58:087][175]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2023.11.23-13.59.58:088][175]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2023.11.23-13.59.58:088][175]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2023.11.23-13.59.58:088][175]LogInit: FAudioDevice initialized with ID 41.
+[2023.11.23-13.59.58:088][175]LogAudio: Display: Audio Device (ID: 41) registered with world 'titleScreen'.
+[2023.11.23-13.59.58:088][175]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2023.11.23-13.59.58:147][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-13.59.58:147][175]LogLoad: Game class is 'GameModeBase'
+[2023.11.23-13.59.58:149][175]LogWorld: Bringing World /Game/UI/UEDPIE_0_titleScreen.titleScreen up for play (max tick rate 0) at 2023.11.24-02.59.58
+[2023.11.23-13.59.58:149][175]LogWorld: Bringing up level for play took: 0.001590
+[2023.11.23-13.59.58:150][175]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2023.11.23-13.59.58:157][175]PIE: Server logged in
+[2023.11.23-13.59.58:161][175]PIE: Play in editor total start time 0.129 seconds.
+[2023.11.23-13.59.58:244][175]LogViewport: Scene viewport resized to 1858x1046, mode Windowed.
+[2023.11.23-13.59.59:245][273]LogNet: Browse: /Game/levels/level1
+[2023.11.23-13.59.59:245][273]LogLoad: LoadMap: /Game/levels/level1
+[2023.11.23-13.59.59:245][273]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_titleScreen
+[2023.11.23-13.59.59:245][273]LogWorld: UWorld::CleanupWorld for titleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-13.59.59:246][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-13.59.59:306][273]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-13.59.59:309][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.11.23-13.59.59:330][273]LogAudio: Display: Audio Device (ID: 41) registered with world 'level1'.
+[2023.11.23-13.59.59:330][273]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-13.59.59:330][273]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-13.59.59:330][273]LogAIModule: Creating AISystem for world level1
+[2023.11.23-13.59.59:330][273]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2023.11.23-13.59.59:330][273]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.23-13.59.59:342][273]LogWorld: Bringing World /Game/levels/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2023.11.24-02.59.59
+[2023.11.23-13.59.59:342][273]LogWorld: Bringing up level for play took: 0.010581
+[2023.11.23-13.59.59:345][273]LogLoad: Took 0.100034 seconds to LoadMap(/Game/levels/level1)
+[2023.11.23-14.00.03:741][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-14.00.03:741][668]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_level1
+[2023.11.23-14.00.03:742][668]LogSlate: Window 'Year2Project Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.23-14.00.03:748][668]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-14.00.03:748][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.00.03:750][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-14.00.03:754][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.00.03:781][668]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-14.00.03:781][668]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2023.11.23-14.00.03:781][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.11.23-14.00.03:783][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.11.23-14.00.03:788][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.23-14.00.03:827][669]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.11.23-14.00.08:306][199]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.23-14.00.08:421][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.23-14.00.22:051][738]BlueprintLog: New page: Compile ABP_Manny
+[2023.11.23-14.00.22:133][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.23-14.00.35:742][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.35:743][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.35:743][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.35:743][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.35:744][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.35:744][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.35:745][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.35:745][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.35:745][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.35:746][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.35:746][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.35:747][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.35:747][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.35:747][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.35:748][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.45:652][324]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.00.45:732][325]LogShaderCompilers: Display: ================================================
+[2023.11.23-14.00.45:732][325]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.23-14.00.45:732][325]LogShaderCompilers: Display: Total job queries 841, among them cache hits 422 (50.18%)
+[2023.11.23-14.00.45:732][325]LogShaderCompilers: Display: Tracking 419 distinct input hashes that result in 108 distinct outputs (25.78%)
+[2023.11.23-14.00.45:732][325]LogShaderCompilers: Display: RAM used: 9.83 MiB of 1.60 GiB budget. Usage: 0.60%
+[2023.11.23-14.00.45:732][325]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.23-14.00.45:732][325]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.11.23-14.00.45:732][325]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.11.23-14.00.45:732][325]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.11.23-14.00.45:732][325]LogShaderCompilers: Display: ================================================
+[2023.11.23-14.00.45:738][326]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.00.47:675][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.11.23-14.00.49:435][515]LogSlate: Window 'Save Content' being destroyed
+[2023.11.23-14.00.49:442][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-14.00.49:556][515]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2023.11.23-14.00.49:557][515]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/ABP_Manny54604F4F4F1CFAD203A7D6AA63B40632.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2023.11.23-14.00.49:606][515]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.23-14.00.49:607][515]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/BP_ThirdPersonCharacter3B922B8F4748951E4A94389838855F2C.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.23-14.00.49:613][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 2.69 sec)
+[2023.11.23-14.00.49:755][515]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.00.49:769][515]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/level2.level2
+[2023.11.23-14.00.49:769][515]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/Year2Assignment/Content/levels/level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.23-14.00.49:769][515]LightingResults: New page: Lighting Build
+[2023.11.23-14.00.49:771][515]LoadErrors: New page: Loading map: level2.umap
+[2023.11.23-14.00.49:793][515]LogWorld: UWorld::CleanupWorld for titleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-14.00.49:793][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.00.49:794][515]MapCheck: New page: Map Check
+[2023.11.23-14.00.49:794][515]LightingResults: New page: Lighting Build
+[2023.11.23-14.00.49:816][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-14.00.49:819][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.23-14.00.49:823][515]LogWorld: UWorld::CleanupWorld for level2, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-14.00.49:824][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.00.49:849][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.23-14.00.49:873][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.23-14.00.49:889][515]LogAudio: Display: Audio Device (ID: 1) registered with world 'level2'.
+[2023.11.23-14.00.49:889][515]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.00.49:889][515]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-14.00.49:890][515]LogAIModule: Creating AISystem for world level2
+[2023.11.23-14.00.49:918][515]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.23-14.00.49:945][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.23-14.00.49:953][515]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.23-14.00.49:953][515]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2023.11.23-14.00.49:953][515]LogFileHelpers: Loading map 'level2' took 0.184
+[2023.11.23-14.00.49:971][515]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.23-14.00.49:971][515]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.23-14.00.49:971][515]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2023.11.23-14.00.49:983][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:984][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:985][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:986][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:986][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:987][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:987][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:988][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:988][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:988][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:989][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:989][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:989][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:990][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:990][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:990][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:991][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:991][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:991][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:991][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:992][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:993][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:993][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:993][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:994][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:994][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:994][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:995][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:995][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:995][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:996][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:996][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:997][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:997][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:998][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:998][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:998][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:999][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:999][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.49:999][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.50:000][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.50:000][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.50:000][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.50:001][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.50:001][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.50:001][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.56:866][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.23-14.00.56:870][223]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/level2.level2
+[2023.11.23-14.00.56:870][223]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/Year2Assignment/Content/levels/level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.23-14.00.56:870][223]LightingResults: New page: Lighting Build
+[2023.11.23-14.00.56:870][223]LoadErrors: New page: Loading map: level2.umap
+[2023.11.23-14.00.56:871][223]LogWorld: UWorld::CleanupWorld for level2, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-14.00.56:871][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.00.56:872][223]MapCheck: New page: Map Check
+[2023.11.23-14.00.56:872][223]LightingResults: New page: Lighting Build
+[2023.11.23-14.00.56:894][223]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-14.00.56:898][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.23-14.00.56:912][223]LogAudio: Display: Audio Device (ID: 1) registered with world 'level2'.
+[2023.11.23-14.00.56:912][223]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.00.56:912][223]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-14.00.56:912][223]LogAIModule: Creating AISystem for world level2
+[2023.11.23-14.00.56:955][223]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.23-14.00.56:982][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.23-14.00.56:989][223]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.23-14.00.56:989][223]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2023.11.23-14.00.56:989][223]LogFileHelpers: Loading map 'level2' took 0.120
+[2023.11.23-14.00.57:120][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:121][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:121][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:121][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:122][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:122][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:123][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:123][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:123][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:124][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:124][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:124][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:125][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:125][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:125][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:125][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:126][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:126][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:127][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:127][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:127][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:128][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:128][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:128][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:129][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:129][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:129][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:130][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:130][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:130][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:131][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:131][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:132][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:132][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:132][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:133][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:133][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:133][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:133][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:134][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:134][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:134][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:135][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:135][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:135][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.57:136][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:540][353]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:541][353]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:541][353]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:542][353]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:543][353]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:551][354]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:552][354]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:560][355]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:568][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:576][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:576][357]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:593][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:626][361]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:626][361]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:627][361]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:627][361]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:627][361]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:654][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:672][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.58:672][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:137][407]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:148][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:149][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:159][409]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:175][410]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:176][410]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:176][410]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:177][410]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:182][410]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:185][410]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:204][413]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:205][413]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:213][414]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:225][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:225][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:226][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:226][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:242][416]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:252][417]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:252][417]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.00.59:266][418]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:428][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.11.23-14.01.06:496][106]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.01.06:510][106]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/level1.level1
+[2023.11.23-14.01.06:511][106]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/Year2Assignment/Content/levels/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.23-14.01.06:511][106]LightingResults: New page: Lighting Build
+[2023.11.23-14.01.06:511][106]LoadErrors: New page: Loading map: level1.umap
+[2023.11.23-14.01.06:512][106]LogWorld: UWorld::CleanupWorld for level2, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-14.01.06:512][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.01.06:512][106]MapCheck: New page: Map Check
+[2023.11.23-14.01.06:512][106]LightingResults: New page: Lighting Build
+[2023.11.23-14.01.06:537][106]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-14.01.06:540][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.23-14.01.06:542][106]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-14.01.06:542][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.01.06:568][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.11.23-14.01.06:591][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.23-14.01.06:605][106]LogAudio: Display: Audio Device (ID: 1) registered with world 'level1'.
+[2023.11.23-14.01.06:605][106]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.01.06:605][106]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-14.01.06:605][106]LogAIModule: Creating AISystem for world level1
+[2023.11.23-14.01.06:643][106]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.23-14.01.06:672][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.11.23-14.01.06:680][106]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.23-14.01.06:680][106]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
+[2023.11.23-14.01.06:680][106]LogFileHelpers: Loading map 'level1' took 0.170
+[2023.11.23-14.01.06:713][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:713][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:714][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:714][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:714][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:715][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:715][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:715][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:716][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:716][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:716][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:717][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:717][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:718][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:718][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:718][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:719][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:719][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:719][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:720][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:720][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:720][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:720][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:721][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:721][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:722][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:722][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:722][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:723][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:723][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:723][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:724][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:724][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:724][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:725][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:725][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:725][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:726][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:726][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:726][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:727][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:727][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:727][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:728][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:728][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.06:728][106]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.07:716][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.11.23-14.01.07:782][176]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.01.07:799][176]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/level2.level2
+[2023.11.23-14.01.07:799][176]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/Year2Assignment/Content/levels/level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.23-14.01.07:799][176]LightingResults: New page: Lighting Build
+[2023.11.23-14.01.07:799][176]LoadErrors: New page: Loading map: level2.umap
+[2023.11.23-14.01.07:802][176]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-14.01.07:802][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.01.07:802][176]MapCheck: New page: Map Check
+[2023.11.23-14.01.07:802][176]LightingResults: New page: Lighting Build
+[2023.11.23-14.01.07:825][176]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-14.01.07:829][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.23-14.01.07:832][176]LogWorld: UWorld::CleanupWorld for level2, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-14.01.07:832][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.01.07:857][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.11.23-14.01.07:884][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.11.23-14.01.07:898][176]LogAudio: Display: Audio Device (ID: 1) registered with world 'level2'.
+[2023.11.23-14.01.07:898][176]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.01.07:898][176]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-14.01.07:898][176]LogAIModule: Creating AISystem for world level2
+[2023.11.23-14.01.07:942][176]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.23-14.01.07:970][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.11.23-14.01.07:978][176]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.23-14.01.07:978][176]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2023.11.23-14.01.07:978][176]LogFileHelpers: Loading map 'level2' took 0.179
+[2023.11.23-14.01.07:999][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:000][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:000][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:001][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:001][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:002][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:002][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:002][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:002][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:003][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:003][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:003][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:003][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:004][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:004][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:004][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:005][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:005][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:006][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:006][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:006][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:007][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:007][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:008][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:008][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:008][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:009][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:009][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:009][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:010][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:010][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:010][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:011][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:011][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:011][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:012][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:012][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:012][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:013][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:013][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:013][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:014][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:014][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:014][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:015][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.08:015][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.01.26:445][412]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.11.23-14.01.26:445][412]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.11.23-14.01.28:612][605]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.01.28:640][607]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.01.28:707][609]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.01.32:242][962]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/levels/assets/buildings/exitTower/exitDoors_BP.exitDoors_BP
+[2023.11.23-14.01.32:242][962]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.01.32:242][962]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-14.01.58:752][913]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/levels/assets/buildings/exitTower/exitElevator_BP.exitElevator_BP
+[2023.11.23-14.01.58:752][913]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.01.58:752][913]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-14.02.33:819][950]BlueprintLog: New page: Compile exitElevator_BP
+[2023.11.23-14.02.33:849][950]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\Year2Assignment\Content\levels\assets\buildings\exitTower\exitElevator_BP.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_ThirdPersonCharacter  to imply a specific type.
+[2023.11.23-14.02.33:850][950]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\Year2Assignment\Content\levels\assets\buildings\exitTower\exitElevator_BP.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2023.11.23-14.02.33:907][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.23-14.03.54:353][355]BlueprintLog: New page: Compile exitElevator_BP
+[2023.11.23-14.03.54:397][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.23-14.05.34:475][602]BlueprintLog: New page: Compile exitElevator_BP
+[2023.11.23-14.05.34:517][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.23-14.05.35:079][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.05.40:155][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.23-14.05.40:159][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-14.05.40:210][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/level2" FILE="../../../../../../Unreal Projects/Year2Assignment/Content/levels/level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.23-14.05.40:233][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.11.23-14.05.40:256][219]LogSavePackage: Moving output files for package: /Game/levels/level2
+[2023.11.23-14.05.40:256][219]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/level219419C6649C6BDB8B6309E9328EC58B7.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/levels/level2.umap'
+[2023.11.23-14.05.40:264][219]LogFileHelpers: Saving map 'level2' took 0.054
+[2023.11.23-14.05.40:323][219]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.23-14.05.40:324][219]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/BP_ThirdPersonCharacterFC097AB44C94F7147392CB8205D1910D.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.23-14.05.40:337][219]LogSavePackage: Moving output files for package: /Game/levels/assets/buildings/exitTower/exitElevator_BP
+[2023.11.23-14.05.40:338][219]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/exitElevator_BP2632D0C5411402FD90195BB9C61315FA.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/levels/assets/buildings/exitTower/exitElevator_BP.uasset'
+[2023.11.23-14.05.40:344][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 2.88 sec)
+[2023.11.23-14.05.40:351][219]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.23-14.05.40:351][219]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.23-14.05.40:351][219]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/levels/assets/buildings/exitTower/exitElevator_BP.exitElevator_BP
+[2023.11.23-14.05.40:351][219]LogContentValidation: Display: Validating /Script/Engine.World /Game/levels/level2.level2
+[2023.11.23-14.05.56:360][ 91]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.23-14.05.56:429][ 91]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\Year2Assignment\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To exitElevator_BP  to imply a specific type.
+[2023.11.23-14.05.56:432][ 91]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\Year2Assignment\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2023.11.23-14.05.56:491][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.11.23-14.06.09:654][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:655][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:665][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:683][596]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:684][596]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:684][596]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:684][596]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:685][596]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:685][596]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:685][596]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:686][596]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:689][596]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:703][598]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:713][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:714][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:722][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:723][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:723][600]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:731][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:732][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.09:732][601]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.11:686][797]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.11:825][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.11:825][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.11:953][822]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:298][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:313][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:335][862]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:335][862]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:341][862]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:344][863]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:345][863]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:354][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:365][865]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:365][865]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:376][866]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:387][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:387][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:428][871]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:428][871]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:438][872]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:450][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:450][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.12:465][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.28:576][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.11.23-14.06.28:640][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.11.23-14.06.31:458][496]LogSlate: Window 'Save Content' being destroyed
+[2023.11.23-14.06.36:599][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.06.38:500][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.06.38:548][154]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.11.23-14.09.48:878][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-14.09.48:946][747]LogSavePackage: Moving output files for package: /Game/levels/assets/buildings/exitTower/exitElevator_BP
+[2023.11.23-14.09.48:947][747]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/exitElevator_BP84A8522449BA4910DD67B8B7CEA07E38.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/levels/assets/buildings/exitTower/exitElevator_BP.uasset'
+[2023.11.23-14.09.48:952][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 2.95 sec)
+[2023.11.23-14.09.48:957][747]AssetCheck: New page: Asset Save: exitElevator_BP
+[2023.11.23-14.09.48:957][747]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/levels/assets/buildings/exitTower/exitElevator_BP.exitElevator_BP
+[2023.11.23-14.09.54:380][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-14.09.54:481][396]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.23-14.09.54:481][396]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/BP_ThirdPersonCharacterF73E4D67496AF14F5F40EF9EC21B83DB.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.23-14.09.54:487][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 3.06 sec)
+[2023.11.23-14.09.54:493][396]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.11.23-14.09.54:493][396]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.23-14.09.56:149][593]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.23-14.09.56:309][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.23-14.09.57:692][722]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.23-14.09.57:701][722]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.23-14.09.57:702][722]LogPlayLevel: [PlayLevel] Compiling exitElevator_BP before play...
+[2023.11.23-14.09.57:886][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.23-14.09.57:890][722]LogPlayLevel: PlayLevel: Blueprint regeneration took 189 ms (1 blueprints)
+[2023.11.23-14.09.57:890][722]PIE: New page: PIE session: level2 (24/11/2023, 4:09:57 pm)
+[2023.11.23-14.09.57:890][722]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_level2
+[2023.11.23-14.09.57:898][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007891s)
+[2023.11.23-14.09.57:898][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/level2.level2 to /Game/levels/UEDPIE_0_level2.level2 (0.007917s)
+[2023.11.23-14.09.57:898][722]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.09.57:898][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-14.09.57:899][722]LogAIModule: Creating AISystem for world level2
+[2023.11.23-14.09.57:899][722]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2023.11.23-14.09.57:923][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.23-14.09.57:924][722]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2023.11.23-14.09.57:924][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-14.09.57:924][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-14.09.57:924][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-14.09.57:924][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-14.09.57:924][722]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.23-14.09.57:924][722]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.23-14.09.57:924][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.23-14.09.57:924][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-14.09.57:924][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-14.09.57:924][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-14.09.57:924][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-14.09.57:926][722]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-14.09.57:943][722]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TOUR ONE M2 Stereo)
+[2023.11.23-14.09.57:943][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-14.09.57:943][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-14.09.57:943][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-14.09.57:943][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2023.11.23-14.09.57:943][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2023.11.23-14.09.57:945][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2023.11.23-14.09.57:945][722]LogInit: FAudioDevice initialized with ID 42.
+[2023.11.23-14.09.57:945][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2023.11.23-14.09.57:945][722]LogAudio: Display: Audio Device (ID: 42) registered with world 'level2'.
+[2023.11.23-14.09.57:945][722]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2023.11.23-14.09.57:990][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-14.09.57:990][722]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.23-14.09.57:994][722]LogWorld: Bringing World /Game/levels/UEDPIE_0_level2.level2 up for play (max tick rate 0) at 2023.11.24-03.09.57
+[2023.11.23-14.09.57:995][722]LogWorld: Bringing up level for play took: 0.003848
+[2023.11.23-14.09.57:996][722]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2023.11.23-14.09.58:001][722]PIE: Server logged in
+[2023.11.23-14.09.58:001][722]PIE: Play in editor total start time 0.301 seconds.
+[2023.11.23-14.09.58:167][722]LogViewport: Scene viewport resized to 1858x1046, mode Windowed.
+[2023.11.23-14.10.00:311][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-14.10.00:311][938]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_level2
+[2023.11.23-14.10.00:312][938]LogSlate: Window 'Year2Project Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.23-14.10.00:316][938]LogWorld: UWorld::CleanupWorld for level2, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-14.10.00:317][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.10.00:319][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-14.10.00:323][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.10.00:349][938]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2023.11.23-14.10.00:349][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.11.23-14.10.00:351][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.11.23-14.10.00:357][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.23-14.10.00:387][940]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2023.11.23-14.10.01:314][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:314][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:315][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:315][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:316][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:316][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:316][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:317][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:317][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:317][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:318][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:318][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:318][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:319][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:319][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:319][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:320][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:320][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:321][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:321][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:321][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:322][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:322][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:322][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:323][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:323][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:323][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:324][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:324][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:324][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:325][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:325][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:326][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:326][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:326][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:326][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:327][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:327][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:327][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:328][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:328][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:328][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:329][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:329][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:330][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.01:330][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.04:295][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.23-14.10.04:321][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.11.23-14.10.05:732][336]LogSlate: Window 'Save Content' being destroyed
+[2023.11.23-14.10.05:739][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-14.10.05:797][336]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-14.10.05:802][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/level1" FILE="../../../../../../Unreal Projects/Year2Assignment/Content/levels/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.23-14.10.05:824][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.11.23-14.10.05:849][336]LogSavePackage: Moving output files for package: /Game/levels/level1
+[2023.11.23-14.10.05:850][336]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/level12C826716416EBBDDE83801B436166728.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/levels/level1.umap'
+[2023.11.23-14.10.05:856][336]LogFileHelpers: Saving map 'level1' took 0.060
+[2023.11.23-14.10.05:857][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/level2" FILE="../../../../../../Unreal Projects/Year2Assignment/Content/levels/level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.23-14.10.05:880][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.11.23-14.10.05:903][336]LogSavePackage: Moving output files for package: /Game/levels/level2
+[2023.11.23-14.10.05:904][336]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/level2AC0C93A64B122509FEE4A885E038E3B3.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/levels/level2.umap'
+[2023.11.23-14.10.05:911][336]LogFileHelpers: Saving map 'level2' took 0.054
+[2023.11.23-14.10.05:918][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 3.24 sec)
+[2023.11.23-14.10.05:924][336]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/level1.level1
+[2023.11.23-14.10.05:924][336]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/Year2Assignment/Content/levels/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.23-14.10.05:924][336]LightingResults: New page: Lighting Build
+[2023.11.23-14.10.05:924][336]LoadErrors: New page: Loading map: level1.umap
+[2023.11.23-14.10.05:952][336]LogWorld: UWorld::CleanupWorld for level2, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-14.10.05:952][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.10.05:953][336]MapCheck: New page: Map Check
+[2023.11.23-14.10.05:953][336]LightingResults: New page: Lighting Build
+[2023.11.23-14.10.05:975][336]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-14.10.05:978][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.23-14.10.05:980][336]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-14.10.05:980][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.10.06:006][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.11.23-14.10.06:031][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.23-14.10.06:049][336]LogAudio: Display: Audio Device (ID: 1) registered with world 'level1'.
+[2023.11.23-14.10.06:049][336]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.10.06:049][336]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-14.10.06:050][336]LogAIModule: Creating AISystem for world level1
+[2023.11.23-14.10.06:086][336]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.23-14.10.06:112][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.11.23-14.10.06:121][336]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.23-14.10.06:121][336]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2023.11.23-14.10.06:121][336]LogFileHelpers: Loading map 'level1' took 0.197
+[2023.11.23-14.10.06:132][336]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.23-14.10.06:132][336]LogContentValidation: Display: Validating /Script/Engine.World /Game/levels/level1.level1
+[2023.11.23-14.10.06:151][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:152][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:152][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:153][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:153][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:153][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:154][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:154][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:154][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:155][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:155][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:156][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:156][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:156][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:157][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:157][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:157][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:158][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:158][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:158][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:159][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:159][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:159][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:159][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:160][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:160][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:160][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:161][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:161][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:161][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:162][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:162][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:162][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:163][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:163][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:163][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:164][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:164][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:164][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:164][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:165][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:165][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:165][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:166][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:166][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.06:167][336]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:523][510]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.23-14.10.08:532][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.23-14.10.08:532][510]PIE: New page: PIE session: level1 (24/11/2023, 4:10:08 pm)
+[2023.11.23-14.10.08:532][510]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_level1
+[2023.11.23-14.10.08:539][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007454s)
+[2023.11.23-14.10.08:539][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/level1.level1 to /Game/levels/UEDPIE_0_level1.level1 (0.007479s)
+[2023.11.23-14.10.08:540][510]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.10.08:540][510]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-14.10.08:540][510]LogAIModule: Creating AISystem for world level1
+[2023.11.23-14.10.08:540][510]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2023.11.23-14.10.08:564][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.23-14.10.08:565][510]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2023.11.23-14.10.08:565][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-14.10.08:565][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-14.10.08:565][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-14.10.08:565][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-14.10.08:565][510]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.23-14.10.08:565][510]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.23-14.10.08:565][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.23-14.10.08:565][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-14.10.08:566][510]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-14.10.08:566][510]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-14.10.08:566][510]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-14.10.08:567][510]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-14.10.08:583][510]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TOUR ONE M2 Stereo)
+[2023.11.23-14.10.08:583][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-14.10.08:583][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-14.10.08:583][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-14.10.08:583][510]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2023.11.23-14.10.08:583][510]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2023.11.23-14.10.08:585][510]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2023.11.23-14.10.08:585][510]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2023.11.23-14.10.08:585][510]LogInit: FAudioDevice initialized with ID 43.
+[2023.11.23-14.10.08:585][510]LogAudio: Display: Audio Device (ID: 43) registered with world 'level1'.
+[2023.11.23-14.10.08:585][510]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2023.11.23-14.10.08:615][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-14.10.08:615][510]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.23-14.10.08:619][510]LogWorld: Bringing World /Game/levels/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2023.11.24-03.10.08
+[2023.11.23-14.10.08:619][510]LogWorld: Bringing up level for play took: 0.003952
+[2023.11.23-14.10.08:621][510]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2023.11.23-14.10.08:628][510]PIE: Server logged in
+[2023.11.23-14.10.08:629][510]PIE: Play in editor total start time 0.098 seconds.
+[2023.11.23-14.10.08:724][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:724][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:725][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:725][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:726][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:726][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:726][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:727][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:727][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:727][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:728][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:728][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:728][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:729][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:729][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:730][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:730][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:730][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:730][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:731][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:731][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:732][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:732][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:732][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:733][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:733][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:733][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:734][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:734][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:734][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:734][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:735][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:735][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:735][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:736][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:736][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:736][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:737][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:737][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:737][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:738][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:738][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:738][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:739][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:739][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:739][510]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.08:761][510]LogViewport: Scene viewport resized to 1858x1046, mode Windowed.
+[2023.11.23-14.10.23:987][765]LogNet: Browse: /Game/levels/level2
+[2023.11.23-14.10.23:987][765]LogLoad: LoadMap: /Game/levels/level2
+[2023.11.23-14.10.23:987][765]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_level1
+[2023.11.23-14.10.23:988][765]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-14.10.23:988][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.10.24:034][765]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-14.10.24:036][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.11.23-14.10.24:055][765]LogAudio: Display: Audio Device (ID: 43) registered with world 'level2'.
+[2023.11.23-14.10.24:055][765]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.10.24:055][765]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-14.10.24:056][765]LogAIModule: Creating AISystem for world level2
+[2023.11.23-14.10.24:056][765]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2023.11.23-14.10.24:056][765]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.23-14.10.24:072][765]LogWorld: Bringing World /Game/levels/UEDPIE_0_level2.level2 up for play (max tick rate 0) at 2023.11.24-03.10.24
+[2023.11.23-14.10.24:072][765]LogWorld: Bringing up level for play took: 0.016335
+[2023.11.23-14.10.24:076][765]LogLoad: Took 0.089641 seconds to LoadMap(/Game/levels/level2)
+[2023.11.23-14.10.24:084][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:085][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:085][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:085][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:086][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:086][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:087][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:087][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:087][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:088][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:088][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:088][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:089][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:089][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:089][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:090][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:090][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:090][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:091][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:091][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:092][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:093][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:093][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:093][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:094][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:094][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:094][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:095][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:095][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:096][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:096][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:096][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:097][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:097][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:097][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:098][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:098][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:098][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:099][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:099][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:099][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:100][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:100][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:101][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:101][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.24:101][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:551][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-14.10.27:551][146]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_level2
+[2023.11.23-14.10.27:553][146]LogSlate: Window 'Year2Project Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.23-14.10.27:559][146]LogWorld: UWorld::CleanupWorld for level2, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-14.10.27:559][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.10.27:561][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-14.10.27:565][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.10.27:589][146]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2023.11.23-14.10.27:590][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.11.23-14.10.27:591][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.11.23-14.10.27:597][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.23-14.10.27:613][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:614][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:614][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:614][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:615][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:615][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:616][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:616][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:616][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:617][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:617][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:617][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:618][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:618][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:618][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:619][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:619][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:619][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:620][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:620][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:620][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:620][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:621][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:621][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:621][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:621][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:622][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:622][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:622][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:623][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:623][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:623][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:624][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:624][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:624][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:625][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:625][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:625][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:626][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:626][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:626][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:626][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:627][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:627][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:627][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:628][146]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-14.10.27:650][147]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.11.23-14.12.18:183][240]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.23-14.12.18:334][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.23-14.12.22:947][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-14.12.23:049][747]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.23-14.12.23:049][747]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/BP_ThirdPersonCharacter83C17511440FC7089B4A6DA941C1ED79.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.23-14.12.23:055][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 3.34 sec)
+[2023.11.23-14.12.23:061][747]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.11.23-14.12.23:061][747]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.23-14.12.23:997][859]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.23-14.12.24:109][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.23-14.14.16:207][710]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.11.23-14.14.16:211][710]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.11.23-14.14.51:260][557]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.23-14.14.51:374][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.23-14.14.52:870][695]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.23-14.14.52:879][695]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.23-14.14.52:881][695]LogPlayLevel: [PlayLevel] Compiling exitElevator_BP before play...
+[2023.11.23-14.14.53:075][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.23-14.14.53:078][695]LogPlayLevel: PlayLevel: Blueprint regeneration took 198 ms (1 blueprints)
+[2023.11.23-14.14.53:078][695]PIE: New page: PIE session: level1 (24/11/2023, 4:14:53 pm)
+[2023.11.23-14.14.53:078][695]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_level1
+[2023.11.23-14.14.53:086][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007500s)
+[2023.11.23-14.14.53:086][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/level1.level1 to /Game/levels/UEDPIE_0_level1.level1 (0.007527s)
+[2023.11.23-14.14.53:086][695]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.14.53:086][695]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-14.14.53:086][695]LogAIModule: Creating AISystem for world level1
+[2023.11.23-14.14.53:087][695]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2023.11.23-14.14.53:111][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.23-14.14.53:112][695]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2023.11.23-14.14.53:112][695]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-14.14.53:112][695]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-14.14.53:112][695]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-14.14.53:112][695]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-14.14.53:112][695]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.23-14.14.53:112][695]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.23-14.14.53:112][695]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.23-14.14.53:112][695]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-14.14.53:112][695]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-14.14.53:112][695]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-14.14.53:112][695]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-14.14.53:115][695]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-14.14.53:131][695]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TOUR ONE M2 Stereo)
+[2023.11.23-14.14.53:131][695]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-14.14.53:131][695]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-14.14.53:131][695]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-14.14.53:131][695]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2023.11.23-14.14.53:131][695]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2023.11.23-14.14.53:133][695]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2023.11.23-14.14.53:133][695]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2023.11.23-14.14.53:133][695]LogInit: FAudioDevice initialized with ID 44.
+[2023.11.23-14.14.53:133][695]LogAudio: Display: Audio Device (ID: 44) registered with world 'level1'.
+[2023.11.23-14.14.53:133][695]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2023.11.23-14.14.53:185][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-14.14.53:185][695]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.23-14.14.53:189][695]LogWorld: Bringing World /Game/levels/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2023.11.24-03.14.53
+[2023.11.23-14.14.53:189][695]LogWorld: Bringing up level for play took: 0.003681
+[2023.11.23-14.14.53:190][695]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2023.11.23-14.14.53:216][695]PIE: Server logged in
+[2023.11.23-14.14.53:216][695]PIE: Play in editor total start time 0.338 seconds.
+[2023.11.23-14.14.53:422][695]LogViewport: Scene viewport resized to 1858x1046, mode Windowed.
+[2023.11.23-14.15.08:499][930]LogNet: Browse: /Game/levels/level2
+[2023.11.23-14.15.08:499][930]LogLoad: LoadMap: /Game/levels/level2
+[2023.11.23-14.15.08:499][930]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_level1
+[2023.11.23-14.15.08:500][930]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-14.15.08:500][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.15.08:564][930]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-14.15.08:567][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.23-14.15.08:591][930]LogAudio: Display: Audio Device (ID: 44) registered with world 'level2'.
+[2023.11.23-14.15.08:591][930]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.15.08:591][930]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-14.15.08:591][930]LogAIModule: Creating AISystem for world level2
+[2023.11.23-14.15.08:591][930]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2023.11.23-14.15.08:591][930]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.23-14.15.08:607][930]LogWorld: Bringing World /Game/levels/UEDPIE_0_level2.level2 up for play (max tick rate 0) at 2023.11.24-03.15.08
+[2023.11.23-14.15.08:607][930]LogWorld: Bringing up level for play took: 0.016336
+[2023.11.23-14.15.08:612][930]LogLoad: Took 0.112905 seconds to LoadMap(/Game/levels/level2)
+[2023.11.23-14.15.11:621][268]Cmd: restartLevel
+[2023.11.23-14.15.11:628][269]LogNet: Browse: /Game/levels/level2?restart
+[2023.11.23-14.15.11:628][269]LogLoad: LoadMap: /Game/levels/level2
+[2023.11.23-14.15.11:628][269]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_level2
+[2023.11.23-14.15.11:629][269]LogWorld: UWorld::CleanupWorld for level2, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-14.15.11:629][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.15.11:677][269]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-14.15.11:680][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.23-14.15.11:699][269]LogAudio: Display: Audio Device (ID: 44) registered with world 'level2'.
+[2023.11.23-14.15.11:699][269]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-14.15.11:699][269]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-14.15.11:699][269]LogAIModule: Creating AISystem for world level2
+[2023.11.23-14.15.11:700][269]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2023.11.23-14.15.11:700][269]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.23-14.15.11:716][269]LogWorld: Bringing World /Game/levels/UEDPIE_0_level2.level2 up for play (max tick rate 0) at 2023.11.24-03.15.11
+[2023.11.23-14.15.11:717][269]LogWorld: Bringing up level for play took: 0.016393
+[2023.11.23-14.15.11:721][269]LogLoad: Took 0.092067 seconds to LoadMap(/Game/levels/level2)
+[2023.11.23-14.15.11:761][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-14.15.11:761][270]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_level2
+[2023.11.23-14.15.11:762][270]LogSlate: Window 'Year2Project Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.23-14.15.11:779][270]LogWorld: UWorld::CleanupWorld for level2, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-14.15.11:779][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.15.11:781][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-14.15.11:785][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-14.15.11:810][270]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2023.11.23-14.15.11:810][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2023.11.23-14.15.11:811][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2023.11.23-14.15.11:817][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.23-14.15.11:841][271]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2023.11.23-14.15.43:174][799]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.23-14.15.44:888][  0]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.23-14.15.44:998][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.11.23-14.16.35:633][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.23-14.16.35:640][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-14.16.35:686][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/level1" FILE="../../../../../../Unreal Projects/Year2Assignment/Content/levels/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.23-14.16.35:708][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.11.23-14.16.35:734][418]LogSavePackage: Moving output files for package: /Game/levels/level1
+[2023.11.23-14.16.35:734][418]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/level166ED65EA463291346B96E7A1FEA073A1.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/levels/level1.umap'
+[2023.11.23-14.16.35:742][418]LogFileHelpers: Saving map 'level1' took 0.057
+[2023.11.23-14.16.35:798][418]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.23-14.16.35:799][418]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/BP_ThirdPersonCharacterB7F35E084900B048D9D504A7CF870AD7.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.23-14.16.35:811][418]LogSavePackage: Moving output files for package: /Game/levels/assets/buildings/exitTower/exitElevator_BP
+[2023.11.23-14.16.35:811][418]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/exitElevator_BP556A91F147EF288AC83790B69408E4A9.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/levels/assets/buildings/exitTower/exitElevator_BP.uasset'
+[2023.11.23-14.16.35:817][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 3.52 sec)
+[2023.11.23-14.16.35:825][418]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.23-14.16.35:825][418]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.23-14.16.35:825][418]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/levels/assets/buildings/exitTower/exitElevator_BP.exitElevator_BP
+[2023.11.23-14.16.35:825][418]LogContentValidation: Display: Validating /Script/Engine.World /Game/levels/level1.level1
