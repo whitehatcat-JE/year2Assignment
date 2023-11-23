@@ -2439,3 +2439,454 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.11.23-06.27.48:267][763]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1.67 sec)
 [2023.11.23-06.27.48:272][763]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2023.11.23-06.27.48:272][763]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.23-06.29.16:302][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.29.16:302][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.29.16:302][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.29.16:303][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.29.16:303][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.29.16:304][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.29.16:304][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.29.16:305][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.29.16:305][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.29.16:305][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.29.16:305][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.29.16:306][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.29.16:306][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.29.16:306][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.29.16:307][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.32.22:040][490]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.32.22:065][491]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.32.25:687][920]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.32.30:454][339]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2023.11.23-06.32.30:461][339]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim
+[2023.11.23-06.32.30:493][339]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim
+[2023.11.23-06.32.30:493][339]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim
+[2023.11.23-06.32.30:493][339]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim
+[2023.11.23-06.32.30:499][339]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim, at AnimationSequence/26842a505021d1804e8308bd10aeeef39e05b663
+[2023.11.23-06.32.30:508][339]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim, at AnimationSequence/99eaa927611031940ccde5fa4d08c9d74acae8dc
+[2023.11.23-06.32.30:512][339]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim
+[2023.11.23-06.32.30:512][339]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim
+[2023.11.23-06.32.30:513][339]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim, at AnimationSequence/374284e8266b973432212a1b57b81bdc7907f3a9
+[2023.11.23-06.32.30:515][339]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim, at AnimationSequence/81aed7e454f463261af497906491e7e1ce332c52
+[2023.11.23-06.32.30:524][339]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim
+[2023.11.23-06.32.30:525][339]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim, at AnimationSequence/f1e34905e3c5d8c428fc41bbbbcfd28805848c46
+[2023.11.23-06.32.30:525][339]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim, at AnimationSequence/6fd049e0dcd91d0dcb6b7f9c96123c5635633c8a
+[2023.11.23-06.32.30:530][339]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim
+[2023.11.23-06.32.30:537][339]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim, at AnimationSequence/9e4f19fffafcd1500df4fdc4fe3df3681b85597b
+[2023.11.23-06.32.30:540][339]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim
+[2023.11.23-06.32.30:542][339]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim, at AnimationSequence/adf285681516340d7399a50e1677bf43380bc455
+[2023.11.23-06.32.30:551][339]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim
+[2023.11.23-06.32.30:561][339]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim, at AnimationSequence/15f08247b9b7f15b78a122e436f72cda1011ccb1
+[2023.11.23-06.32.30:563][339]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim
+[2023.11.23-06.32.30:570][339]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim, at AnimationSequence/1aac77e09bdb3c97eb282161011727fb288512dc
+[2023.11.23-06.32.30:580][339]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim
+[2023.11.23-06.32.30:587][339]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2023.11.23-06.32.30:593][339]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim, at AnimationSequence/b0a12cbe5c0ad8521390789dc277a28830d21dcd
+[2023.11.23-06.32.30:593][339]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim
+[2023.11.23-06.32.30:602][339]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim, at AnimationSequence/1f42c6702bdacc438ef866a882ed3fba7c9ec390
+[2023.11.23-06.32.30:621][339]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim, at AnimationSequence/8d27b7febe2994bdd41742ad9383e21cceb4b2c3
+[2023.11.23-06.32.30:627][339]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim, at AnimationSequence/cf2936a93df3e1f7133ba8946e7b8927b6d31bc0
+[2023.11.23-06.32.30:733][339]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2023.11.23-06.32.33:940][339]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2023.11.23-06.32.33:940][339]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2023.11.23-06.32.37:498][339]LogSkeletalMesh: Built Skeletal Mesh [6.91s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2023.11.23-06.33.18:931][281]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.23-06.33.18:941][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.23-06.33.18:941][281]PIE: New page: PIE session: titleScreen (24/11/2023, 8:33:18 am)
+[2023.11.23-06.33.18:941][281]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_titleScreen
+[2023.11.23-06.33.18:945][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004403s)
+[2023.11.23-06.33.18:945][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/titleScreen.titleScreen to /Game/UI/UEDPIE_0_titleScreen.titleScreen (0.004428s)
+[2023.11.23-06.33.18:946][281]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.33.18:946][281]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-06.33.18:946][281]LogAIModule: Creating AISystem for world titleScreen
+[2023.11.23-06.33.18:946][281]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2023.11.23-06.33.18:972][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.23-06.33.18:975][281]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.11.23-06.33.18:975][281]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-06.33.18:975][281]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-06.33.18:975][281]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-06.33.18:975][281]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-06.33.18:975][281]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.23-06.33.18:975][281]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.23-06.33.18:975][281]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.23-06.33.18:975][281]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-06.33.18:975][281]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-06.33.18:975][281]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-06.33.18:975][281]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-06.33.18:977][281]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-06.33.18:993][281]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TOUR ONE M2 Stereo)
+[2023.11.23-06.33.18:993][281]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-06.33.18:993][281]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-06.33.18:993][281]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-06.33.18:993][281]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.11.23-06.33.18:993][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.11.23-06.33.18:995][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.11.23-06.33.18:995][281]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.11.23-06.33.18:995][281]LogInit: FAudioDevice initialized with ID 9.
+[2023.11.23-06.33.18:995][281]LogAudio: Display: Audio Device (ID: 9) registered with world 'titleScreen'.
+[2023.11.23-06.33.18:995][281]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.11.23-06.33.19:046][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-06.33.19:046][281]LogLoad: Game class is 'GameModeBase'
+[2023.11.23-06.33.19:047][281]LogWorld: Bringing World /Game/UI/UEDPIE_0_titleScreen.titleScreen up for play (max tick rate 0) at 2023.11.23-19.33.19
+[2023.11.23-06.33.19:048][281]LogWorld: Bringing up level for play took: 0.001517
+[2023.11.23-06.33.19:049][281]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.11.23-06.33.19:052][281]PIE: Server logged in
+[2023.11.23-06.33.19:052][281]PIE: Play in editor total start time 0.112 seconds.
+[2023.11.23-06.33.19:122][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:122][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:123][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:124][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:124][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:124][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:125][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:125][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:125][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:126][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:126][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:126][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:127][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:127][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:127][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:128][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:128][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:128][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:129][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:129][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:129][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:130][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:130][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:130][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:130][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.19:132][281]LogViewport: Scene viewport resized to 1858x1046, mode Windowed.
+[2023.11.23-06.33.20:980][494]LogNet: Browse: /Game/levels/level1
+[2023.11.23-06.33.20:980][494]LogLoad: LoadMap: /Game/levels/level1
+[2023.11.23-06.33.20:980][494]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_titleScreen
+[2023.11.23-06.33.20:981][494]LogWorld: UWorld::CleanupWorld for titleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-06.33.20:981][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-06.33.21:026][494]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-06.33.21:029][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.23-06.33.21:047][494]LogAudio: Display: Audio Device (ID: 9) registered with world 'level1'.
+[2023.11.23-06.33.21:048][494]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.33.21:048][494]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-06.33.21:048][494]LogAIModule: Creating AISystem for world level1
+[2023.11.23-06.33.21:048][494]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2023.11.23-06.33.21:048][494]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.23-06.33.21:059][494]LogWorld: Bringing World /Game/levels/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2023.11.23-19.33.21
+[2023.11.23-06.33.21:059][494]LogWorld: Bringing up level for play took: 0.010959
+[2023.11.23-06.33.21:063][494]LogLoad: Took 0.082962 seconds to LoadMap(/Game/levels/level1)
+[2023.11.23-06.33.21:072][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:072][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:073][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:073][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:073][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:074][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:074][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:075][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:075][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:076][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:076][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:076][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:077][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:077][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:077][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:078][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:078][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:078][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:079][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:079][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:079][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:080][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:080][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:081][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:081][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:081][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:082][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:082][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:082][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:083][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:083][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:083][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:084][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:084][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:084][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:085][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:085][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:085][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:086][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:086][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:086][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:087][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:087][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:087][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:088][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.33.21:088][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.34.44:254][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-06.34.44:312][212]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.23-06.34.44:312][212]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/BP_ThirdPersonCharacter9982FF4546A5F90FCD51D5A00715254D.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.23-06.34.44:313][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 1.72 sec)
+[2023.11.23-06.34.44:318][212]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.11.23-06.34.44:318][212]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.23-06.34.55:664][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-06.34.55:664][147]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_level1
+[2023.11.23-06.34.55:666][147]LogSlate: Window 'Year2Project Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.23-06.34.55:670][147]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-06.34.55:670][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-06.34.55:672][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-06.34.55:676][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-06.34.55:699][147]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.11.23-06.34.55:699][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.23-06.34.55:701][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.23-06.34.55:708][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.23-06.34.55:725][148]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.11.23-06.34.57:319][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-06.34.57:408][336]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.23-06.34.57:408][336]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/BP_ThirdPersonCharacterB6053ABA4D2F11A1074C6490B0F168A0.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.23-06.34.57:413][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 1.82 sec)
+[2023.11.23-06.34.57:418][336]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.11.23-06.34.57:418][336]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.23-06.34.58:797][500]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.23-06.34.58:884][500]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_Quinn_C /Engine/Transient.World_11:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Quinn_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:0067
+[2023.11.23-06.34.58:884][500]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_5 via property Character, but REINST_BP_ThirdPersonCharacter_C_5 is not valid (pending kill or garbage)
+	ABP_Quinn_C /Engine/Transient.World_12:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_Quinn_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:0067
+[2023.11.23-06.34.58:884][500]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_4 via property Character, but REINST_BP_ThirdPersonCharacter_C_4 is not valid (pending kill or garbage)
+	ABP_Quinn_C /Engine/Transient.World_32:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_4.CharacterMesh0.ABP_Quinn_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:0067
+[2023.11.23-06.34.58:908][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.23-06.34.59:839][600]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.23-06.34.59:850][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.23-06.34.59:850][600]PIE: New page: PIE session: titleScreen (24/11/2023, 8:34:59 am)
+[2023.11.23-06.34.59:850][600]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_titleScreen
+[2023.11.23-06.34.59:855][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004413s)
+[2023.11.23-06.34.59:855][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/titleScreen.titleScreen to /Game/UI/UEDPIE_0_titleScreen.titleScreen (0.004440s)
+[2023.11.23-06.34.59:855][600]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.34.59:855][600]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-06.34.59:855][600]LogAIModule: Creating AISystem for world titleScreen
+[2023.11.23-06.34.59:855][600]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2023.11.23-06.34.59:879][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.23-06.34.59:881][600]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.11.23-06.34.59:881][600]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-06.34.59:881][600]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-06.34.59:881][600]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-06.34.59:881][600]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-06.34.59:881][600]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.23-06.34.59:881][600]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.23-06.34.59:881][600]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.23-06.34.59:881][600]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-06.34.59:882][600]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-06.34.59:882][600]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-06.34.59:882][600]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-06.34.59:884][600]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-06.34.59:901][600]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TOUR ONE M2 Stereo)
+[2023.11.23-06.34.59:901][600]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-06.34.59:901][600]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-06.34.59:901][600]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-06.34.59:901][600]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.11.23-06.34.59:901][600]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.11.23-06.34.59:903][600]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.11.23-06.34.59:903][600]LogInit: FAudioDevice initialized with ID 10.
+[2023.11.23-06.34.59:903][600]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.11.23-06.34.59:903][600]LogAudio: Display: Audio Device (ID: 10) registered with world 'titleScreen'.
+[2023.11.23-06.34.59:903][600]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.11.23-06.34.59:949][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-06.34.59:949][600]LogLoad: Game class is 'GameModeBase'
+[2023.11.23-06.34.59:950][600]LogWorld: Bringing World /Game/UI/UEDPIE_0_titleScreen.titleScreen up for play (max tick rate 0) at 2023.11.23-19.34.59
+[2023.11.23-06.34.59:950][600]LogWorld: Bringing up level for play took: 0.001508
+[2023.11.23-06.34.59:952][600]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.11.23-06.34.59:954][600]PIE: Server logged in
+[2023.11.23-06.34.59:954][600]PIE: Play in editor total start time 0.104 seconds.
+[2023.11.23-06.35.00:047][600]LogViewport: Scene viewport resized to 1858x1046, mode Windowed.
+[2023.11.23-06.35.01:431][751]LogNet: Browse: /Game/levels/level1
+[2023.11.23-06.35.01:431][751]LogLoad: LoadMap: /Game/levels/level1
+[2023.11.23-06.35.01:431][751]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_titleScreen
+[2023.11.23-06.35.01:431][751]LogWorld: UWorld::CleanupWorld for titleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-06.35.01:431][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-06.35.01:474][751]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-06.35.01:477][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.11.23-06.35.01:496][751]LogAudio: Display: Audio Device (ID: 10) registered with world 'level1'.
+[2023.11.23-06.35.01:496][751]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.35.01:496][751]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-06.35.01:496][751]LogAIModule: Creating AISystem for world level1
+[2023.11.23-06.35.01:497][751]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2023.11.23-06.35.01:497][751]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.23-06.35.01:507][751]LogWorld: Bringing World /Game/levels/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2023.11.23-19.35.01
+[2023.11.23-06.35.01:508][751]LogWorld: Bringing up level for play took: 0.010606
+[2023.11.23-06.35.01:511][751]LogLoad: Took 0.080547 seconds to LoadMap(/Game/levels/level1)
+[2023.11.23-06.35.20:524][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-06.35.20:524][312]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_level1
+[2023.11.23-06.35.20:525][312]LogSlate: Window 'Year2Project Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.23-06.35.20:528][312]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-06.35.20:528][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-06.35.20:530][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-06.35.20:534][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-06.35.20:555][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-06.35.20:555][312]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.11.23-06.35.20:555][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.23-06.35.20:556][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.23-06.35.20:562][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.11.23-06.35.20:601][316]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.11.23-06.35.40:707][616]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.23-06.35.40:904][616]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_5 via property Character, but REINST_BP_ThirdPersonCharacter_C_5 is not valid (pending kill or garbage)
+	ABP_Quinn_C /Engine/Transient.World_12:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_5.CharacterMesh0.ABP_Quinn_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:0067
+[2023.11.23-06.35.40:904][616]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_Quinn_C /Engine/Transient.World_11:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Quinn_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:0067
+[2023.11.23-06.35.40:941][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.11.23-06.35.42:042][731]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.23-06.35.42:051][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.23-06.35.42:051][731]PIE: New page: PIE session: titleScreen (24/11/2023, 8:35:42 am)
+[2023.11.23-06.35.42:051][731]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_titleScreen
+[2023.11.23-06.35.42:055][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004135s)
+[2023.11.23-06.35.42:055][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/titleScreen.titleScreen to /Game/UI/UEDPIE_0_titleScreen.titleScreen (0.004158s)
+[2023.11.23-06.35.42:056][731]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.35.42:056][731]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-06.35.42:056][731]LogAIModule: Creating AISystem for world titleScreen
+[2023.11.23-06.35.42:056][731]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2023.11.23-06.35.42:078][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.11.23-06.35.42:080][731]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.11.23-06.35.42:080][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-06.35.42:080][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-06.35.42:080][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-06.35.42:080][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-06.35.42:080][731]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.23-06.35.42:080][731]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.23-06.35.42:080][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.23-06.35.42:080][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-06.35.42:080][731]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-06.35.42:080][731]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-06.35.42:080][731]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-06.35.42:082][731]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-06.35.42:098][731]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TOUR ONE M2 Stereo)
+[2023.11.23-06.35.42:098][731]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-06.35.42:098][731]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-06.35.42:098][731]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-06.35.42:098][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.11.23-06.35.42:098][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.11.23-06.35.42:100][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.11.23-06.35.42:100][731]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.11.23-06.35.42:100][731]LogInit: FAudioDevice initialized with ID 11.
+[2023.11.23-06.35.42:100][731]LogAudio: Display: Audio Device (ID: 11) registered with world 'titleScreen'.
+[2023.11.23-06.35.42:100][731]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.11.23-06.35.42:131][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-06.35.42:131][731]LogLoad: Game class is 'GameModeBase'
+[2023.11.23-06.35.42:132][731]LogWorld: Bringing World /Game/UI/UEDPIE_0_titleScreen.titleScreen up for play (max tick rate 0) at 2023.11.23-19.35.42
+[2023.11.23-06.35.42:133][731]LogWorld: Bringing up level for play took: 0.001487
+[2023.11.23-06.35.42:135][731]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.11.23-06.35.42:137][731]PIE: Server logged in
+[2023.11.23-06.35.42:138][731]PIE: Play in editor total start time 0.087 seconds.
+[2023.11.23-06.35.42:222][731]LogViewport: Scene viewport resized to 1858x1046, mode Windowed.
+[2023.11.23-06.35.43:272][842]LogNet: Browse: /Game/levels/level1
+[2023.11.23-06.35.43:272][842]LogLoad: LoadMap: /Game/levels/level1
+[2023.11.23-06.35.43:272][842]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_titleScreen
+[2023.11.23-06.35.43:272][842]LogWorld: UWorld::CleanupWorld for titleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-06.35.43:272][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-06.35.43:313][842]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-06.35.43:316][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.23-06.35.43:334][842]LogAudio: Display: Audio Device (ID: 11) registered with world 'level1'.
+[2023.11.23-06.35.43:335][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.35.43:335][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-06.35.43:335][842]LogAIModule: Creating AISystem for world level1
+[2023.11.23-06.35.43:335][842]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2023.11.23-06.35.43:335][842]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.23-06.35.43:345][842]LogWorld: Bringing World /Game/levels/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2023.11.23-19.35.43
+[2023.11.23-06.35.43:345][842]LogWorld: Bringing up level for play took: 0.010837
+[2023.11.23-06.35.43:349][842]LogLoad: Took 0.077806 seconds to LoadMap(/Game/levels/level1)
+[2023.11.23-06.35.55:854][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-06.35.55:854][895]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_level1
+[2023.11.23-06.35.55:855][895]LogSlate: Window 'Year2Project Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.23-06.35.55:860][895]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-06.35.55:860][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-06.35.55:862][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-06.35.55:866][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-06.35.55:886][895]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-06.35.55:886][895]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.11.23-06.35.55:886][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.11.23-06.35.55:887][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.11.23-06.35.55:894][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.23-06.35.55:918][897]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.11.23-06.36.10:156][572]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.23-06.36.10:274][572]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_1 via property Character, but REINST_BP_ThirdPersonCharacter_C_1 is not valid (pending kill or garbage)
+	ABP_Quinn_C /Engine/Transient.World_11:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_1.CharacterMesh0.ABP_Quinn_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:0067
+[2023.11.23-06.36.10:300][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.11.23-06.36.11:399][687]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.11.23-06.36.11:408][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.23-06.36.11:408][687]PIE: New page: PIE session: titleScreen (24/11/2023, 8:36:11 am)
+[2023.11.23-06.36.11:408][687]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_titleScreen
+[2023.11.23-06.36.11:412][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004189s)
+[2023.11.23-06.36.11:412][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/titleScreen.titleScreen to /Game/UI/UEDPIE_0_titleScreen.titleScreen (0.004212s)
+[2023.11.23-06.36.11:412][687]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.36.11:413][687]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-06.36.11:413][687]LogAIModule: Creating AISystem for world titleScreen
+[2023.11.23-06.36.11:413][687]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2023.11.23-06.36.11:435][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.11.23-06.36.11:437][687]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.11.23-06.36.11:437][687]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-06.36.11:437][687]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-06.36.11:437][687]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-06.36.11:437][687]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-06.36.11:437][687]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.23-06.36.11:437][687]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.23-06.36.11:437][687]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.23-06.36.11:437][687]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-06.36.11:438][687]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-06.36.11:438][687]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-06.36.11:438][687]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-06.36.11:439][687]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-06.36.11:455][687]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TOUR ONE M2 Stereo)
+[2023.11.23-06.36.11:455][687]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-06.36.11:455][687]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-06.36.11:455][687]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-06.36.11:456][687]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.11.23-06.36.11:456][687]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.11.23-06.36.11:457][687]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.11.23-06.36.11:457][687]LogInit: FAudioDevice initialized with ID 12.
+[2023.11.23-06.36.11:457][687]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.11.23-06.36.11:457][687]LogAudio: Display: Audio Device (ID: 12) registered with world 'titleScreen'.
+[2023.11.23-06.36.11:457][687]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.11.23-06.36.11:507][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-06.36.11:507][687]LogLoad: Game class is 'GameModeBase'
+[2023.11.23-06.36.11:509][687]LogWorld: Bringing World /Game/UI/UEDPIE_0_titleScreen.titleScreen up for play (max tick rate 0) at 2023.11.23-19.36.11
+[2023.11.23-06.36.11:509][687]LogWorld: Bringing up level for play took: 0.001510
+[2023.11.23-06.36.11:510][687]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2023.11.23-06.36.11:513][687]PIE: Server logged in
+[2023.11.23-06.36.11:514][687]PIE: Play in editor total start time 0.105 seconds.
+[2023.11.23-06.36.11:602][687]LogViewport: Scene viewport resized to 1858x1046, mode Windowed.
+[2023.11.23-06.36.13:056][846]LogNet: Browse: /Game/levels/level1
+[2023.11.23-06.36.13:057][846]LogLoad: LoadMap: /Game/levels/level1
+[2023.11.23-06.36.13:057][846]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_titleScreen
+[2023.11.23-06.36.13:057][846]LogWorld: UWorld::CleanupWorld for titleScreen, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-06.36.13:057][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-06.36.13:124][846]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-06.36.13:127][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.23-06.36.13:145][846]LogAudio: Display: Audio Device (ID: 12) registered with world 'level1'.
+[2023.11.23-06.36.13:145][846]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.36.13:145][846]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-06.36.13:145][846]LogAIModule: Creating AISystem for world level1
+[2023.11.23-06.36.13:145][846]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2023.11.23-06.36.13:145][846]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.23-06.36.13:156][846]LogWorld: Bringing World /Game/levels/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2023.11.23-19.36.13
+[2023.11.23-06.36.13:156][846]LogWorld: Bringing up level for play took: 0.010546
+[2023.11.23-06.36.13:160][846]LogLoad: Took 0.102852 seconds to LoadMap(/Game/levels/level1)
+[2023.11.23-06.36.44:564][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-06.36.44:564][318]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_level1
+[2023.11.23-06.36.44:565][318]LogSlate: Window 'Year2Project Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.11.23-06.36.44:568][318]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-06.36.44:569][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-06.36.44:571][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-06.36.44:575][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-06.36.44:596][318]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-06.36.44:596][318]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.11.23-06.36.44:596][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.11.23-06.36.44:597][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.11.23-06.36.44:603][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.23-06.36.44:653][321]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.11.23-06.36.45:905][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-06.36.45:989][471]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.23-06.36.45:989][471]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/BP_ThirdPersonCharacter98CDB0AF42AB36AF91C3BA95AF1A40A4.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.23-06.36.45:993][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1.91 sec)
+[2023.11.23-06.36.45:998][471]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.11.23-06.36.45:998][471]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
