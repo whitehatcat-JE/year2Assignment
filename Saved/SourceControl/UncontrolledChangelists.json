@@ -20,7 +20,14 @@
 				"E:/Unreal Projects/Year2Assignment/Content/ThirdPerson/Blueprints/CrouchRifleHip_BS1D.uasset",
 				"E:/Unreal Projects/Year2Assignment/Content/ThirdPerson/Blueprints/CrouchPistolHipBS1.uasset",
 				"E:/Unreal Projects/Year2Assignment/Content/ThirdPerson/Blueprints/CrouchPistolHipBS.uasset",
-				"E:/Unreal Projects/Year2Assignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"E:/Unreal Projects/Year2Assignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Unreal Projects/Year2Assignment/Content/Animations/PistolKneelingIdle_UE_Anim.uasset",
+				"E:/Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Environment_Assets/SM_Scapes1.uasset",
+				"E:/Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet4.uasset",
+				"E:/Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet3.uasset",
+				"E:/Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet2.uasset",
+				"E:/Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet.uasset",
+				"E:/Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Niagara_FX/Textures/ParticleFlamesSheet.uasset"
 			]
 		}
 	]

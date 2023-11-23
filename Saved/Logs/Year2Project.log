@@ -2890,3 +2890,658 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.11.23-06.36.45:993][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1.91 sec)
 [2023.11.23-06.36.45:998][471]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2023.11.23-06.36.45:998][471]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.23-06.37.16:076][ 78]LogWindowsTextInputMethodSystem: Activated input method: English (New Zealand) - (Keyboard).
+[2023.11.23-06.37.16:077][ 78]LogWindowsTextInputMethodSystem: Activated input method: English (New Zealand) - (Keyboard).
+[2023.11.23-06.38.26:375][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-06.38.26:466][529]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.23-06.38.26:466][529]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/BP_ThirdPersonCharacter2880F551438B23C5DFF0C195274B69E6.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.23-06.38.26:472][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 2.00 sec)
+[2023.11.23-06.38.26:479][529]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.11.23-06.38.26:479][529]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.23-06.38.26:570][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.11.23-06.38.26:571][532]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/titleScreen' took 0.021
+[2023.11.23-06.38.26:571][532]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/CrouchRifleHipBS] ([1] browsable assets)...
+[2023.11.23-06.38.26:571][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/CrouchRifleHipBS]
+[2023.11.23-06.38.26:572][532]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/CrouchRifleHipBS_Auto3
+[2023.11.23-06.38.26:572][532]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/CrouchRifleHipBS_Auto32630BDA6425CC6DF71194190F48E46E3.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Saved/Autosaves/Game/ThirdPerson/Blueprints/CrouchRifleHipBS_Auto3.uasset'
+[2023.11.23-06.38.26:572][532]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/WalkingPistolBS] ([1] browsable assets)...
+[2023.11.23-06.38.26:573][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WalkingPistolBS]
+[2023.11.23-06.38.26:573][532]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/WalkingPistolBS_Auto3
+[2023.11.23-06.38.26:573][532]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/WalkingPistolBS_Auto30D42B93B43DFD03D91B4189A9892896C.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Saved/Autosaves/Game/ThirdPerson/Blueprints/WalkingPistolBS_Auto3.uasset'
+[2023.11.23-06.38.26:574][532]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/WalkingRifleBS] ([1] browsable assets)...
+[2023.11.23-06.38.26:574][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WalkingRifleBS]
+[2023.11.23-06.38.26:574][532]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/WalkingRifleBS_Auto3
+[2023.11.23-06.38.26:574][532]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/WalkingRifleBS_Auto3CE47ADA146478393E03323976430FA35.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Saved/Autosaves/Game/ThirdPerson/Blueprints/WalkingRifleBS_Auto3.uasset'
+[2023.11.23-06.38.26:575][532]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.11.23-06.38.32:231][660]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.38.32:231][660]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.38.32:231][660]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.38.32:232][660]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.38.32:232][660]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.38.32:233][660]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.38.32:233][660]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.38.32:233][660]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.38.32:234][660]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.38.32:234][660]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.38.32:235][660]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.38.32:235][660]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.38.32:235][660]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.38.32:236][660]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.38.32:236][660]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.23-06.39.03:704][473]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\adamm\Downloads\idle pistol.fbx)
+[2023.11.23-06.39.03:869][473]LogFbx: Loading FBX Scene from C:\Users\adamm\Downloads\idle pistol.fbx
+[2023.11.23-06.39.03:995][473]LogFbx: FBX Scene Loaded Succesfully
+[2023.11.23-06.39.41:892][473]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.11.23-06.39.41:984][473]LogFbx: Valid bind pose for Pose (SKM_Manny) - SKM_Manny
+[2023.11.23-06.39.42:089][473]LogFbx: Bones digested - 164  Depth of hierarchy - 15
+[2023.11.23-06.39.43:841][473]LogSkeletalMesh: Section 0: Material=0, 54012 triangles
+[2023.11.23-06.39.43:841][473]LogSkeletalMesh: Section 1: Material=1, 38166 triangles
+[2023.11.23-06.39.43:856][473]LogSkeletalMesh: Building Skeletal Mesh idle_pistol...
+[2023.11.23-06.39.43:875][473]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (idle_pistol) ...
+[2023.11.23-06.39.45:419][473]LogSkeletalMesh: Built Skeletal Mesh [1.56s] /Game/Animations/idle_pistol.idle_pistol
+[2023.11.23-06.39.49:206][473]LogSlate: Window 'Message' being destroyed
+[2023.11.23-06.39.49:212][473]Message dialog closed, result: No, title: Message, text: FAILED TO MERGE BONES:
+
+ This could happen if significant hierarchical changes have been made
+e.g. inserting a bone between nodes.
+Would you like to regenerate the Skeleton from this mesh?
+
+***WARNING: THIS MAY INVALIDATE OR REQUIRE RECOMPRESSION OF ANIMATION DATA.***
+
+[2023.11.23-06.39.49:332][473]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.39.49:332][473]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-06.39.49:376][473]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-06.39.49:376][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-06.39.49:417][473]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (idle_pistol) ...
+[2023.11.23-06.39.49:462][473]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.11.23-06.39.49:462][473]FBXImport: Warning: The following bones are missing from the bind pose:
+HeadTop_End  
+LeftHandIndex4  
+LeftHandMiddle4  
+LeftHandThumb4  
+LeftHandPinky4  
+LeftHandRing4  
+RightHandPinky4  
+RightHandRing4  
+RightHandMiddle4  
+RightHandIndex4  
+RightHandThumb4  
+RightToe_End  
+LeftToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2023.11.23-06.39.49:462][473]FBXImport: Error: Specified Skeleton 'SK_Mannequin' do not match fbx imported skeleton. Cannot import animations with this skeleton. 
+[2023.11.23-06.39.49:653][474]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.39.49:681][475]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.39.53:068][845]LogSlate: Window 'Message Log' being destroyed
+[2023.11.23-06.39.53:073][845]LogSlate: Window 'Message Log' being destroyed
+[2023.11.23-06.40.01:662][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.11.23-06.40.03:109][813]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.23-06.40.03:183][813]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Animations/idle_pistol.idle_pistol
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Animations/idle_pistol_PhysicsAsset.idle_pistol_PhysicsAsset
+	Asset Type: PhysicsAsset
+[2023.11.23-06.40.03:515][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.11.23-06.40.03:536][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.11.23-06.40.03:556][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.11.23-06.41.13:772][292]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\adamm\Downloads\mixamo_converter\mixamo_converter\OutgoingFbx\idlepistol.UE.fbx)
+[2023.11.23-06.41.13:783][292]LogFbx: Loading FBX Scene from C:\Users\adamm\Downloads\mixamo_converter\mixamo_converter\OutgoingFbx\idlepistol.UE.fbx
+[2023.11.23-06.41.13:856][292]LogFbx: FBX Scene Loaded Succesfully
+[2023.11.23-06.41.27:461][292]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.11.23-06.41.27:484][292]LogFbx: Valid bind pose for Pose (SKM_Manny) - SKM_Manny
+[2023.11.23-06.41.27:590][292]LogFbx: Bones digested - 162  Depth of hierarchy - 15
+[2023.11.23-06.41.29:281][292]LogSkeletalMesh: Section 0: Material=0, 54012 triangles
+[2023.11.23-06.41.29:281][292]LogSkeletalMesh: Section 1: Material=1, 38166 triangles
+[2023.11.23-06.41.29:296][292]LogSkeletalMesh: Building Skeletal Mesh idlepistol_UE...
+[2023.11.23-06.41.29:314][292]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (idlepistol_UE) ...
+[2023.11.23-06.41.30:878][292]LogSkeletalMesh: Built Skeletal Mesh [1.58s] /Game/Animations/idlepistol_UE.idlepistol_UE
+[2023.11.23-06.41.31:896][292]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+[2023.11.23-06.41.31:933][292]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim, at AnimationSequence/f7ca2c01b941c49ead174d908b0d053a5e8faf4a
+[2023.11.23-06.41.31:964][292]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+[2023.11.23-06.41.32:000][292]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim, at AnimationSequence/51ed8211e8b1cf2361652ba135bfb04fcb3b7295
+[2023.11.23-06.41.32:030][292]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim
+[2023.11.23-06.41.32:063][292]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim, at AnimationSequence/362096372b3abc1b998fac1c37b3f59b530b6e51
+[2023.11.23-06.41.32:098][292]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim
+[2023.11.23-06.41.32:132][292]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim, at AnimationSequence/8dca411060a3219a83c7ed37d96a60c4aa9fa5fa
+[2023.11.23-06.41.32:165][292]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim
+[2023.11.23-06.41.32:192][292]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim, at AnimationSequence/5ef026b8242b8dfa74ee54f1791274bfd71c2051
+[2023.11.23-06.41.32:214][292]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim
+[2023.11.23-06.41.32:235][292]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim, at AnimationSequence/ea99a5af9c4a2df9a03255c75746106aaa7d7443
+[2023.11.23-06.41.32:263][292]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim
+[2023.11.23-06.41.32:275][292]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim, at AnimationSequence/df1ee8ba1a1572e15da77e2450c2927120f654d2
+[2023.11.23-06.41.32:295][292]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim
+[2023.11.23-06.41.32:309][292]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim, at AnimationSequence/c9536c2d1b0ed956f05d4ee8d5cb77ea74d5045e
+[2023.11.23-06.41.32:328][292]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim
+[2023.11.23-06.41.32:335][292]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim, at AnimationSequence/d741bb71f440e15606773295c5b2b8bf82fe3067
+[2023.11.23-06.41.32:360][292]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim
+[2023.11.23-06.41.32:367][292]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim, at AnimationSequence/cb7a5e95991fced2cf2db4c56a4466972e2ea45c
+[2023.11.23-06.41.32:392][292]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim
+[2023.11.23-06.41.32:409][292]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim, at AnimationSequence/3693f8f8c7da901f9c4c7f2a1b8e9714d19eb562
+[2023.11.23-06.41.32:442][292]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim
+[2023.11.23-06.41.32:460][292]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim, at AnimationSequence/644cb73ea623480ae292e249a00584de0b70a46d
+[2023.11.23-06.41.32:491][292]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim
+[2023.11.23-06.41.32:508][292]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim, at AnimationSequence/b05e3be5c28de1e4e9646d6e31f1891d78171a7b
+[2023.11.23-06.41.32:540][292]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2023.11.23-06.41.32:559][292]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim, at AnimationSequence/720866cd3c6b4ec1efab19021f4805cce0d064f7
+[2023.11.23-06.41.32:776][292]LogSkeletalMesh: Building Skeletal Mesh SKM_Manny...
+[2023.11.23-06.41.32:850][292]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny) ...
+[2023.11.23-06.41.34:087][292]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2023.11.23-06.41.34:087][292]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2023.11.23-06.41.37:948][292]LogSkeletalMesh: Built Skeletal Mesh [5.17s] /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2023.11.23-06.41.38:009][292]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.41.38:009][292]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-06.41.38:021][292]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-06.41.38:021][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(0) root
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(1) SKM_Manny
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(2) pelvis
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(3) spine_01
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(4) spine_02
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(5) spine_03
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(6) spine_04
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(7) spine_05
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(8) neck_01
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(9) neck_02
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(10) head
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(11) clavicle_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(12) upperarm_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(13) lowerarm_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(14) lowerarm_twist_02_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(15) lowerarm_twist_01_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(16) lowerarm_correctiveRoot_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(17) lowerarm_in_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(18) lowerarm_out_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(19) lowerarm_fwd_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(20) lowerarm_bck_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(21) hand_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(22) wrist_inner_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(23) wrist_outer_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(24) index_metacarpal_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(25) index_01_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(26) index_02_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(27) index_03_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(28) middle_metacarpal_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(29) middle_01_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(30) middle_02_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(31) middle_03_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(32) thumb_01_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(33) thumb_02_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(34) thumb_03_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(35) pinky_metacarpal_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(36) pinky_01_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(37) pinky_02_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(38) pinky_03_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(39) ring_metacarpal_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(40) ring_01_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(41) ring_02_l
+[2023.11.23-06.41.38:089][292]LogFbx: SortedLinks :(42) ring_03_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(43) weapon_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(44) upperarm_twist_01_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(45) upperarm_twistCor_01_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(46) upperarm_twist_02_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(47) upperarm_tricep_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(48) upperarm_bicep_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(49) upperarm_twistCor_02_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(50) upperarm_correctiveRoot_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(51) upperarm_bck_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(52) upperarm_fwd_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(53) upperarm_in_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(54) upperarm_out_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(55) clavicle_out_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(56) clavicle_scap_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(57) clavicle_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(58) upperarm_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(59) lowerarm_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(60) lowerarm_twist_02_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(61) lowerarm_twist_01_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(62) lowerarm_correctiveRoot_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(63) lowerarm_out_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(64) lowerarm_in_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(65) lowerarm_fwd_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(66) lowerarm_bck_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(67) hand_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(68) wrist_inner_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(69) wrist_outer_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(70) pinky_metacarpal_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(71) pinky_01_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(72) pinky_02_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(73) pinky_03_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(74) ring_metacarpal_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(75) ring_01_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(76) ring_02_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(77) ring_03_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(78) middle_metacarpal_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(79) middle_01_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(80) middle_02_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(81) middle_03_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(82) index_metacarpal_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(83) index_01_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(84) index_02_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(85) index_03_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(86) thumb_01_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(87) thumb_02_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(88) thumb_03_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(89) weapon_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(90) upperarm_twist_01_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(91) upperarm_twistCor_01_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(92) upperarm_twist_02_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(93) upperarm_tricep_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(94) upperarm_bicep_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(95) upperarm_twistCor_02_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(96) upperarm_correctiveRoot_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(97) upperarm_bck_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(98) upperarm_in_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(99) upperarm_fwd_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(100) upperarm_out_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(101) clavicle_out_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(102) clavicle_scap_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(103) clavicle_pec_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(104) spine_04_latissimus_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(105) spine_04_latissimus_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(106) clavicle_pec_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(107) thigh_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(108) calf_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(109) foot_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(110) ball_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(111) ankle_fwd_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(112) ankle_bck_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(113) calf_twist_02_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(114) calf_twistCor_02_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(115) calf_twist_01_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(116) calf_correctiveRoot_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(117) calf_kneeBack_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(118) calf_knee_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(119) thigh_twist_01_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(120) thigh_twistCor_01_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(121) thigh_twist_02_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(122) thigh_twistCor_02_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(123) thigh_correctiveRoot_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(124) thigh_fwd_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(125) thigh_bck_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(126) thigh_out_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(127) thigh_in_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(128) thigh_bck_lwr_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(129) thigh_fwd_lwr_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(130) thigh_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(131) calf_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(132) foot_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(133) ball_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(134) ankle_bck_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(135) ankle_fwd_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(136) calf_twist_02_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(137) calf_twistCor_02_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(138) calf_twist_01_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(139) calf_correctiveRoot_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(140) calf_kneeBack_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(141) calf_knee_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(142) thigh_twist_01_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(143) thigh_twistCor_01_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(144) thigh_twist_02_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(145) thigh_twistCor_02_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(146) thigh_correctiveRoot_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(147) thigh_bck_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(148) thigh_fwd_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(149) thigh_out_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(150) thigh_bck_lwr_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(151) thigh_in_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(152) thigh_fwd_lwr_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(153) ik_foot_root
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(154) ik_foot_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(155) ik_foot_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(156) ik_hand_root
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(157) ik_hand_gun
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(158) ik_hand_l
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(159) ik_hand_r
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(160) interaction
+[2023.11.23-06.41.38:090][292]LogFbx: SortedLinks :(161) center_of_mass
+[2023.11.23-06.41.38:090][292]LogFbx: Parsing AnimStack mixamo.com
+[2023.11.23-06.41.38:503][292]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/idlepistol_UE_Anim.idlepistol_UE_Anim
+[2023.11.23-06.41.38:532][292]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (idlepistol_UE) ...
+[2023.11.23-06.41.38:569][292]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/idlepistol_UE_Anim.idlepistol_UE_Anim, at AnimationSequence/59b6b323d61c38be8ab38102cb18ff687b7b5dd2
+[2023.11.23-06.41.38:622][295]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.44.45:522][784]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\adamm\Downloads\mixamo_converter\mixamo_converter\OutgoingFbx\PistolKneelingIdle.UE.fbx)
+[2023.11.23-06.44.45:533][784]LogFbx: Loading FBX Scene from C:\Users\adamm\Downloads\mixamo_converter\mixamo_converter\OutgoingFbx\PistolKneelingIdle.UE.fbx
+[2023.11.23-06.44.45:608][784]LogFbx: FBX Scene Loaded Succesfully
+[2023.11.23-06.44.53:571][784]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.11.23-06.44.53:588][784]LogFbx: Valid bind pose for Pose (SKM_Manny) - SKM_Manny
+[2023.11.23-06.44.53:700][784]LogFbx: Bones digested - 162  Depth of hierarchy - 15
+[2023.11.23-06.44.55:445][784]LogSkeletalMesh: Section 0: Material=0, 54012 triangles
+[2023.11.23-06.44.55:445][784]LogSkeletalMesh: Section 1: Material=1, 38166 triangles
+[2023.11.23-06.44.55:460][784]LogSkeletalMesh: Building Skeletal Mesh PistolKneelingIdle_UE...
+[2023.11.23-06.44.55:479][784]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (PistolKneelingIdle_UE) ...
+[2023.11.23-06.44.57:099][784]LogSkeletalMesh: Built Skeletal Mesh [1.64s] /Game/Animations/PistolKneelingIdle_UE.PistolKneelingIdle_UE
+[2023.11.23-06.44.57:174][784]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.44.57:174][784]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-06.44.57:188][784]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-06.44.57:188][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(0) root
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(1) SKM_Manny
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(2) pelvis
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(3) spine_01
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(4) spine_02
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(5) spine_03
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(6) spine_04
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(7) spine_05
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(8) neck_01
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(9) neck_02
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(10) head
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(11) clavicle_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(12) upperarm_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(13) lowerarm_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(14) lowerarm_twist_02_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(15) lowerarm_twist_01_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(16) lowerarm_correctiveRoot_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(17) lowerarm_in_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(18) lowerarm_out_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(19) lowerarm_fwd_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(20) lowerarm_bck_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(21) hand_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(22) wrist_inner_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(23) wrist_outer_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(24) index_metacarpal_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(25) index_01_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(26) index_02_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(27) index_03_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(28) middle_metacarpal_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(29) middle_01_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(30) middle_02_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(31) middle_03_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(32) thumb_01_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(33) thumb_02_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(34) thumb_03_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(35) pinky_metacarpal_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(36) pinky_01_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(37) pinky_02_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(38) pinky_03_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(39) ring_metacarpal_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(40) ring_01_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(41) ring_02_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(42) ring_03_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(43) weapon_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(44) upperarm_twist_01_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(45) upperarm_twistCor_01_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(46) upperarm_twist_02_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(47) upperarm_tricep_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(48) upperarm_bicep_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(49) upperarm_twistCor_02_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(50) upperarm_correctiveRoot_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(51) upperarm_bck_l
+[2023.11.23-06.44.57:205][784]LogFbx: SortedLinks :(52) upperarm_fwd_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(53) upperarm_in_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(54) upperarm_out_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(55) clavicle_out_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(56) clavicle_scap_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(57) clavicle_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(58) upperarm_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(59) lowerarm_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(60) lowerarm_twist_02_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(61) lowerarm_twist_01_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(62) lowerarm_correctiveRoot_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(63) lowerarm_out_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(64) lowerarm_in_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(65) lowerarm_fwd_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(66) lowerarm_bck_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(67) hand_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(68) wrist_inner_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(69) wrist_outer_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(70) pinky_metacarpal_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(71) pinky_01_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(72) pinky_02_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(73) pinky_03_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(74) ring_metacarpal_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(75) ring_01_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(76) ring_02_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(77) ring_03_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(78) middle_metacarpal_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(79) middle_01_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(80) middle_02_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(81) middle_03_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(82) index_metacarpal_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(83) index_01_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(84) index_02_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(85) index_03_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(86) thumb_01_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(87) thumb_02_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(88) thumb_03_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(89) weapon_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(90) upperarm_twist_01_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(91) upperarm_twistCor_01_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(92) upperarm_twist_02_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(93) upperarm_tricep_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(94) upperarm_bicep_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(95) upperarm_twistCor_02_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(96) upperarm_correctiveRoot_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(97) upperarm_bck_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(98) upperarm_in_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(99) upperarm_fwd_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(100) upperarm_out_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(101) clavicle_out_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(102) clavicle_scap_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(103) clavicle_pec_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(104) spine_04_latissimus_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(105) spine_04_latissimus_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(106) clavicle_pec_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(107) thigh_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(108) calf_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(109) foot_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(110) ball_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(111) ankle_fwd_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(112) ankle_bck_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(113) calf_twist_02_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(114) calf_twistCor_02_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(115) calf_twist_01_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(116) calf_correctiveRoot_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(117) calf_kneeBack_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(118) calf_knee_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(119) thigh_twist_01_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(120) thigh_twistCor_01_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(121) thigh_twist_02_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(122) thigh_twistCor_02_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(123) thigh_correctiveRoot_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(124) thigh_fwd_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(125) thigh_bck_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(126) thigh_out_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(127) thigh_in_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(128) thigh_bck_lwr_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(129) thigh_fwd_lwr_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(130) thigh_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(131) calf_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(132) foot_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(133) ball_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(134) ankle_bck_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(135) ankle_fwd_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(136) calf_twist_02_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(137) calf_twistCor_02_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(138) calf_twist_01_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(139) calf_correctiveRoot_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(140) calf_kneeBack_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(141) calf_knee_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(142) thigh_twist_01_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(143) thigh_twistCor_01_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(144) thigh_twist_02_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(145) thigh_twistCor_02_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(146) thigh_correctiveRoot_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(147) thigh_bck_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(148) thigh_fwd_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(149) thigh_out_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(150) thigh_bck_lwr_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(151) thigh_in_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(152) thigh_fwd_lwr_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(153) ik_foot_root
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(154) ik_foot_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(155) ik_foot_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(156) ik_hand_root
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(157) ik_hand_gun
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(158) ik_hand_l
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(159) ik_hand_r
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(160) interaction
+[2023.11.23-06.44.57:206][784]LogFbx: SortedLinks :(161) center_of_mass
+[2023.11.23-06.44.57:206][784]LogFbx: Parsing AnimStack mixamo.com
+[2023.11.23-06.44.58:153][784]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/PistolKneelingIdle_UE_Anim.PistolKneelingIdle_UE_Anim
+[2023.11.23-06.44.58:181][784]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (PistolKneelingIdle_UE) ...
+[2023.11.23-06.44.58:291][786]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (PistolKneelingIdle_UE) ...
+[2023.11.23-06.44.58:303][787]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.44.58:335][788]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/PistolKneelingIdle_UE_Anim.PistolKneelingIdle_UE_Anim, at AnimationSequence/0e810555f779633f38fa0d1f4773ef5d290cd0bd
+[2023.11.23-06.45.08:284][595]LogSlate: Window 'Content Browser' being destroyed
+[2023.11.23-06.45.08:289][595]LogSlate: Window 'Content Browser' being destroyed
+[2023.11.23-06.45.22:602][285]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/ThirdPerson/Blueprints/CrouchPistolHipBS.CrouchPistolHipBS
+[2023.11.23-06.45.22:604][285]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.45.22:604][285]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-06.45.22:616][285]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.11.23-06.45.22:801][285]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.45.22:801][285]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-06.45.22:882][285]LogViewport: Scene viewport resized to 660x289, mode Windowed.
+[2023.11.23-06.45.22:903][285]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.11.23-06.45.24:450][437]LogViewport: Scene viewport resized to 1141x610, mode Windowed.
+[2023.11.23-06.45.26:974][654]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.BlendSpace
+[2023.11.23-06.45.28:692][804]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.11.23-06.45.36:818][437]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2023.11.23-06.45.36:823][437]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-06.45.36:823][437]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-06.45.47:208][154]LogViewport: Scene viewport resized to 1139x624, mode Windowed.
+[2023.11.23-06.45.47:290][156]LogViewport: Scene viewport resized to 533x259, mode Windowed.
+[2023.11.23-06.45.47:323][157]LogViewport: Scene viewport resized to 467x218, mode Windowed.
+[2023.11.23-06.45.47:737][204]LogViewport: Scene viewport resized to 1141x610, mode Windowed.
+[2023.11.23-06.45.48:366][279]LogSlate: Window 'PistolKneelingIdle_UE_Anim' being destroyed
+[2023.11.23-06.45.48:376][279]LogViewport: Scene viewport resized to 1141x643, mode Windowed.
+[2023.11.23-06.45.48:398][280]LogViewport: Scene viewport resized to 1141x637, mode Windowed.
+[2023.11.23-06.45.48:421][281]LogViewport: Scene viewport resized to 1141x632, mode Windowed.
+[2023.11.23-06.45.48:445][282]LogViewport: Scene viewport resized to 1141x627, mode Windowed.
+[2023.11.23-06.45.48:466][283]LogViewport: Scene viewport resized to 1141x621, mode Windowed.
+[2023.11.23-06.45.48:490][284]LogViewport: Scene viewport resized to 1141x616, mode Windowed.
+[2023.11.23-06.45.48:513][285]LogViewport: Scene viewport resized to 1141x610, mode Windowed.
+[2023.11.23-06.48.41:585][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.11.23-06.48.41:586][ 56]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/titleScreen' took 0.029
+[2023.11.23-06.48.41:587][ 56]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.11.23-06.48.41:587][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.11.23-06.48.41:626][ 56]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2023.11.23-06.48.41:626][ 56]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/BP_ThirdPersonCharacter_Auto40A27CD454CE686C5E1352FB4C5D5C6CF.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2023.11.23-06.48.41:627][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Meshes/SK_Mannequin] ([1] browsable assets)...
+[2023.11.23-06.48.41:637][ 56]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin]
+[2023.11.23-06.48.41:637][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SK_Mannequin]
+[2023.11.23-06.48.41:645][ 56]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SK_Mannequin_Auto4
+[2023.11.23-06.48.41:645][ 56]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/SK_Mannequin_Auto40F91EFF0408DC3FB56DF7883577F7A31.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SK_Mannequin_Auto4.uasset'
+[2023.11.23-06.48.41:663][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/idlepistol_UE] ([1] browsable assets)...
+[2023.11.23-06.48.41:668][ 56]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/idlepistol_UE.idlepistol_UE]
+[2023.11.23-06.48.41:668][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/idlepistol_UE]
+[2023.11.23-06.48.41:791][ 56]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/idlepistol_UE_Auto4
+[2023.11.23-06.48.41:791][ 56]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/idlepistol_UE_Auto4EAD7B2EA43CFB5649B3897818CEA9281.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Saved/Autosaves/Game/Animations/idlepistol_UE_Auto4.uasset'
+[2023.11.23-06.48.41:792][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/idlepistol_UE_PhysicsAsset] ([1] browsable assets)...
+[2023.11.23-06.48.41:796][ 56]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Animations/idlepistol_UE_PhysicsAsset.idlepistol_UE_PhysicsAsset]
+[2023.11.23-06.48.41:796][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/idlepistol_UE_PhysicsAsset]
+[2023.11.23-06.48.41:800][ 56]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/idlepistol_UE_PhysicsAsset_Auto4
+[2023.11.23-06.48.41:800][ 56]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/idlepistol_UE_PhysicsAsset_Auto4E9B6F1A14280BD48AC7E1F8EF956D91D.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Saved/Autosaves/Game/Animations/idlepistol_UE_PhysicsAsset_Auto4.uasset'
+[2023.11.23-06.48.41:801][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/idlepistol_UE_Anim] ([1] browsable assets)...
+[2023.11.23-06.48.41:807][ 56]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/idlepistol_UE_Anim.idlepistol_UE_Anim]
+[2023.11.23-06.48.41:807][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/idlepistol_UE_Anim]
+[2023.11.23-06.48.41:825][ 56]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/idlepistol_UE_Anim_Auto4
+[2023.11.23-06.48.41:825][ 56]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/idlepistol_UE_Anim_Auto4C751C1C04B797679F3FD7D8F6893CB2B.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Saved/Autosaves/Game/Animations/idlepistol_UE_Anim_Auto4.uasset'
+[2023.11.23-06.48.41:825][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/PistolKneelingIdle_UE] ([1] browsable assets)...
+[2023.11.23-06.48.41:830][ 56]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/PistolKneelingIdle_UE.PistolKneelingIdle_UE]
+[2023.11.23-06.48.41:830][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/PistolKneelingIdle_UE]
+[2023.11.23-06.48.41:948][ 56]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/PistolKneelingIdle_UE_Auto4
+[2023.11.23-06.48.41:948][ 56]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/PistolKneelingIdle_UE_Auto4742231BC42EC3B4F7B60FD80DF41313A.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Saved/Autosaves/Game/Animations/PistolKneelingIdle_UE_Auto4.uasset'
+[2023.11.23-06.48.41:949][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/PistolKneelingIdle_UE_PhysicsAsset] ([1] browsable assets)...
+[2023.11.23-06.48.41:955][ 56]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Animations/PistolKneelingIdle_UE_PhysicsAsset.PistolKneelingIdle_UE_PhysicsAsset]
+[2023.11.23-06.48.41:955][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/PistolKneelingIdle_UE_PhysicsAsset]
+[2023.11.23-06.48.41:958][ 56]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/PistolKneelingIdle_UE_PhysicsAsset_Auto4
+[2023.11.23-06.48.41:958][ 56]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/PistolKneelingIdle_UE_PhysicsAssE5BA1A5B4A4AF9C4DC994CAEE6BA81F3.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Saved/Autosaves/Game/Animations/PistolKneelingIdle_UE_PhysicsAsset_Auto4.uasset'
+[2023.11.23-06.48.41:981][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/PistolKneelingIdle_UE_Anim] ([1] browsable assets)...
+[2023.11.23-06.48.41:987][ 56]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/PistolKneelingIdle_UE_Anim.PistolKneelingIdle_UE_Anim]
+[2023.11.23-06.48.41:987][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/PistolKneelingIdle_UE_Anim]
+[2023.11.23-06.48.42:006][ 56]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/PistolKneelingIdle_UE_Anim_Auto4
+[2023.11.23-06.48.42:006][ 56]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/PistolKneelingIdle_UE_Anim_Auto46E11B97E4C7ABBEF16F92D80C7778738.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Saved/Autosaves/Game/Animations/PistolKneelingIdle_UE_Anim_Auto4.uasset'
+[2023.11.23-06.48.42:007][ 56]LogFileHelpers: Auto-saving content packages took 0.420
+[2023.11.23-06.55.05:575][ 89]LogDirectoryWatcher: Display: A directory notification failed for 'E:/Unreal Projects/Year2Assignment/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2023.11.23-06.55.05:575][ 89]LogDirectoryWatcher: Display: A directory notification failed for 'E:/Unreal Projects/Year2Assignment/Content/Developers/adamm/Collections/' because it could not be accessed. Aborting watch request...
+[2023.11.23-06.55.05:575][ 89]LogDirectoryWatcher: Display: A directory notification failed for 'E:/Unreal Projects/Year2Assignment/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2023.11.23-07.01.09:301][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-07.01.09:357][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/PistolKneelingIdle_UE_Anim" FILE="../../../../../../Unreal Projects/Year2Assignment/Content/Animations/PistolKneelingIdle_UE_Anim.uasset" SILENT=true
+[2023.11.23-07.01.09:376][815]LogSavePackage: Moving output files for package: /Game/Animations/PistolKneelingIdle_UE_Anim
+[2023.11.23-07.01.09:376][815]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/PistolKneelingIdle_UE_Anim15CC418C407729A337422BB03CE48F05.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/Animations/PistolKneelingIdle_UE_Anim.uasset'
+[2023.11.23-07.01.09:386][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 2.09 sec)
+[2023.11.23-07.01.09:393][815]AssetCheck: New page: Asset Save: PistolKneelingIdle_UE_Anim
+[2023.11.23-07.01.09:394][815]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/PistolKneelingIdle_UE_Anim.PistolKneelingIdle_UE_Anim
+[2023.11.23-07.01.13:439][287]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.23-07.01.13:536][287]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_2 via property Character, but REINST_BP_ThirdPersonCharacter_C_2 is not valid (pending kill or garbage)
+	ABP_Quinn_C /Engine/Transient.World_11:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_2.CharacterMesh0.ABP_Quinn_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny_C:ExecuteUbergraph_ABP_Manny:0067
+[2023.11.23-07.01.13:562][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.11.23-07.01.17:336][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-07.01.17:418][708]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.23-07.01.17:419][708]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/BP_ThirdPersonCharacter1ABA816C4D710CB5059B948672E333BB.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.23-07.01.17:424][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 2.18 sec)
+[2023.11.23-07.01.17:429][708]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.11.23-07.01.17:429][708]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.23-07.01.45:104][270]LogDerivedDataCache: C:/Users/adamm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.099 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4415 files in 5609 folders with total size 279 MiB.
+[2023.11.23-07.02.09:770][343]AssetReimport: New page: Outstanding source content changes 9:02:09 am
+[2023.11.23-07.02.09:899][343]LogEditorFactories: Performing atomic reimport of [E:/Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Environment_Assets/SM_Scapes1.fbx]
+[2023.11.23-07.02.09:974][343]LogFbx: Loading FBX Scene from E:/Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Environment_Assets/SM_Scapes1.fbx
+[2023.11.23-07.02.10:323][343]LogFbx: FBX Scene Loaded Succesfully
+[2023.11.23-07.02.10:575][343]LogStaticMesh: Built static mesh [0.70s] /Game/A_Surface_Footstep/Environment_Assets/SM_Scapes1.SM_Scapes1
+[2023.11.23-07.02.13:114][343]LogStaticMesh: Built static mesh [0.39s] /Game/A_Surface_Footstep/Environment_Assets/SM_Scapes1.SM_Scapes1
+[2023.11.23-07.02.13:419][343]LogEditorFactories: -- imported successfully
+[2023.11.23-07.02.13:556][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-07.02.13:699][344]LogSavePackage: Moving output files for package: /Game/A_Surface_Footstep/Environment_Assets/SM_Scapes1
+[2023.11.23-07.02.13:699][344]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/SM_Scapes1AAC0229B447F5A7CB43AA38A5C3702F8.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Environment_Assets/SM_Scapes1.uasset'
+[2023.11.23-07.02.13:704][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 2.33 sec)
+[2023.11.23-07.02.13:707][344]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 E:/Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet4.tga)
+[2023.11.23-07.02.13:893][345]AssetCheck: New page: Asset Save: SM_Scapes1
+[2023.11.23-07.02.13:893][345]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/A_Surface_Footstep/Environment_Assets/SM_Scapes1.SM_Scapes1
+[2023.11.23-07.02.13:894][345]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 E:/Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet3.tga)
+[2023.11.23-07.02.13:903][345]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 E:/Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet2.tga)
+[2023.11.23-07.02.13:912][345]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 E:/Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet.tga)
+[2023.11.23-07.02.13:920][345]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 E:/Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Niagara_FX/Textures/ParticleFlamesSheet.tga)
+[2023.11.23-07.02.13:926][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-07.02.13:978][345]LogTexture: Display: Building textures: /Game/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet4.T_FireSheet4 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.11.23-07.02.13:988][345]LogTexture: Display: Building textures: /Game/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet3.T_FireSheet3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.11.23-07.02.13:991][345]LogTexture: Display: Building textures: /Game/A_Surface_Footstep/Niagara_FX/Textures/ParticleFlamesSheet.ParticleFlamesSheet (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 84.604147 MB), EncodeSpeed: Fast
+[2023.11.23-07.02.13:992][345]LogTexture: Display: Building textures: /Game/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet2.T_FireSheet2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.11.23-07.02.13:993][345]LogTexture: Display: Building textures: /Game/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet.T_FireSheet (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.11.23-07.02.13:995][345]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet4) ...
+[2023.11.23-07.02.14:100][345]LogSavePackage: Moving output files for package: /Game/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet4
+[2023.11.23-07.02.14:100][345]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/T_FireSheet466C324DB4E972B9662744C8150DBEF97.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet4.uasset'
+[2023.11.23-07.02.14:120][345]LogSavePackage: Moving output files for package: /Game/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet3
+[2023.11.23-07.02.14:120][345]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/T_FireSheet38AD979B64338761411ED64B8582336B6.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet3.uasset'
+[2023.11.23-07.02.14:137][345]LogSavePackage: Moving output files for package: /Game/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet2
+[2023.11.23-07.02.14:137][345]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/T_FireSheet2232853894D591866CC7C6B8D63A5A586.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet2.uasset'
+[2023.11.23-07.02.14:155][345]LogSavePackage: Moving output files for package: /Game/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet
+[2023.11.23-07.02.14:155][345]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/T_FireSheet05FAFE3D4DB026DD988195BA7260F4F7.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet.uasset'
+[2023.11.23-07.02.14:165][345]LogSavePackage: Moving output files for package: /Game/A_Surface_Footstep/Niagara_FX/Textures/ParticleFlamesSheet
+[2023.11.23-07.02.14:165][345]LogSavePackage: Moving '../../../../../../Unreal Projects/Year2Assignment/Saved/ParticleFlamesSheetA11E42AC4E50CCB385CF3AA135EF2982.tmp' to '../../../../../../Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Niagara_FX/Textures/ParticleFlamesSheet.uasset'
+[2023.11.23-07.02.14:169][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 242 ms (total: 2.57 sec)
+[2023.11.23-07.02.14:225][346]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.23-07.02.14:225][346]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet3.T_FireSheet3
+[2023.11.23-07.02.14:225][346]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet4.T_FireSheet4
+[2023.11.23-07.02.14:225][346]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/A_Surface_Footstep/Niagara_FX/Textures/ParticleFlamesSheet.ParticleFlamesSheet
+[2023.11.23-07.02.14:225][346]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet.T_FireSheet
+[2023.11.23-07.02.14:225][346]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet2.T_FireSheet2
+[2023.11.23-07.02.17:225][355]AssetReimport: Reimported asset SM_Scapes1 from E:/Unreal Projects/Year2Assignment/Content/A_Surface_Footstep/Environment_Assets/SM_Scapes1.fbx.
+[2023.11.23-07.02.17:225][355]AssetReimport: Importing new asset /Game/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet4.
+[2023.11.23-07.02.17:225][355]AssetReimport: Importing new asset /Game/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet3.
+[2023.11.23-07.02.17:225][355]AssetReimport: Importing new asset /Game/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet2.
+[2023.11.23-07.02.17:225][355]AssetReimport: Importing new asset /Game/A_Surface_Footstep/Niagara_FX/Textures/T_FireSheet.
+[2023.11.23-07.02.17:225][355]AssetReimport: Importing new asset /Game/A_Surface_Footstep/Niagara_FX/Textures/ParticleFlamesSheet.
+[2023.11.23-07.14.33:747][565]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2023.11.23-07.14.34:690][565]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=15176
+[2023.11.23-07.14.35:028][567]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{356c0cab-8895-4e7a-a1e4-74e0a88d951a}, Name=Speakers (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=10.90
+[2023.11.23-07.14.35:028][567]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.23-07.14.35:029][567]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.23-07.15.19:877][702]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (JBL TOUR ONE M2 Stereo), InstanceID=1
+[2023.11.23-07.15.20:030][702]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=15176
+[2023.11.23-07.15.20:365][703]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{cd46e332-6c78-49e5-9b20-0fa149fed23e}, Name=Headphones (JBL TOUR ONE M2 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=13.80
+[2023.11.23-07.15.20:365][703]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.23-07.15.20:366][703]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.23-07.15.24:124][715]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2023.11.23-07.15.24:280][715]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (JBL TOUR ONE M2 Stereo), InstanceID=1
+[2023.11.23-07.15.24:366][715]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=15176
+[2023.11.23-07.15.24:701][716]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{cd46e332-6c78-49e5-9b20-0fa149fed23e}, Name=Headphones (JBL TOUR ONE M2 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=10.19
+[2023.11.23-07.15.24:701][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.23-07.15.24:702][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.23-07.18.46:551][322]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2023.11.23-07.18.46:742][322]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=15176
+[2023.11.23-07.18.47:077][323]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{356c0cab-8895-4e7a-a1e4-74e0a88d951a}, Name=Speakers (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=8.69
+[2023.11.23-07.18.47:077][323]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.23-07.18.47:078][323]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
